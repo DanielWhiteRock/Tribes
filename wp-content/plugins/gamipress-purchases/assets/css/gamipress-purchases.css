@@ -1,0 +1,9 @@
+.gamipress-purchases-form-custom-amount,
+.gamipress-purchases-form-options-custom-amount-input {
+    display: inline-block;
+    width: 200px;
+}
+
+.gamipress-purchases-form-submit-button {
+    cursor: pointer;
+}

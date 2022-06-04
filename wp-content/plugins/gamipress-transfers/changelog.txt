@@ -1,0 +1,54 @@
+== Changelog ==
+
+= 1.0.9 =
+
+* **New Features**
+* Make transfers list columns sortable on admin area.
+* Enable searches on transfers list on admin area.
+
+= 1.0.8 =
+
+* **Bug Fixes**
+* Added transfer default data in order to make "Add new transfer" button work.
+
+= 1.0.7 =
+
+* **Improvements**
+* Added extra checks on transfer processing to ensure that user meets the points amount that wants to transfer.
+
+= 1.0.6 =
+
+* **New Features**
+* Full support to GamiPress Gutenberg blocks.
+
+= 1.0.5 =
+
+* **Developer Notes**
+* Added filters to override recipient display.
+
+= 1.0.4 =
+
+* **Bug Fixes**
+* Fixed points type issue on "Transfer a minimum amount of points" event.
+
+= 1.0.3 =
+
+* **Bug Fixes**
+* Fixed some typos on plugin messages.
+* **Developer Notes**
+* Added new JS events for transfer request: gamipress_transfers_before_transfer_request, gamipress_transfers_after_transfer_request
+* Added new JS events for transfer result: gamipress_transfers_transfer_success, gamipress_transfers_transfer_error
+
+= 1.0.2 =
+
+* **New Features**
+* Added support to GamiPress admin bar menu.
+
+= 1.0.1 =
+
+* **Developer Notes**
+* Added filters to the recipient ajax search.
+
+= 1.0.0 =
+
+* Initial release.

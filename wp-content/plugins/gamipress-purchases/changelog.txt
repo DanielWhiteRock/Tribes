@@ -1,0 +1,82 @@
+== Changelog ==
+
+= 1.0.9 =
+
+* **New Features**
+* Make payments list columns sortable on admin area.
+* Enable searches on payments list on admin area.
+
+= 1.0.8 =
+
+* **Bug Fixes**
+* Added payment default data in order to make "Add new payment" button work.
+
+= 1.0.7 =
+
+* **New Features**
+* Full support to GamiPress Gutenberg blocks.
+
+= 1.0.6 =
+
+* **Bug Fixes**
+* Fixed points type issue on "Purchase a minimum amount of points" event.
+
+= 1.0.5 =
+
+* **Bug Fixes**
+* Fixed some typos on plugin messages.
+* **Developer Notes**
+* Added new JS events for purchase request: gamipress_purchases_before_purchase_request, gamipress_purchases_after_purchase_request
+* Added new JS events for purchase result: gamipress_purchases_purchase_success, gamipress_purchases_purchase_error
+
+= 1.0.4 =
+
+* **New Features**
+* Added support to GamiPress admin bar menu.
+
+= 1.0.3 =
+
+* **New Features**
+* Shortcodes has been renamed to:
+* [gamipress_points_purchase_form] to [gamipress_points_purchase].
+* [gamipress_achievement_purchase_form] to [gamipress_achievement_purchase].
+* [gamipress_rank_purchase_form] to [gamipress_rank_purchase].
+* Added backward compatibility with old [*_purchase_form] shortcodes.
+* **Bug Fixes**
+* Double points type field on payment item assignments.
+* Wrong payment notes on PayPal refund.
+* Wrong achievement and rank IDs on widgets.
+* Widget title visibility on achievement and rank purchase widgets
+* **Improvements**
+* Fields visibility on points purchase shortcode and widget fields.
+* Javascript events on widgets has been attached to body.
+* Added extra checks on rules engine for custom events checks.
+* **Developer Notes**
+* Renamed the insert payment note function to fix a typo, keep old function for backward compatibility.
+
+= 1.0.2 =
+
+* **New Features**
+* Support for WordPress personal data exporters.
+* Support for WordPress personal data erasers.
+* Support for GamiPress multisite features.
+* **Improvements**
+* Make changelog notes more clear.
+* **Developer Notes**
+* Added new filters for new privacy functions.
+
+= 1.0.1 =
+
+* **New Features**
+* New attributes "acceptance" and "acceptance_text" on shortcodes for purchase forms to meet with GDPR.
+* New fields "Acceptance Checkbox" and "Acceptance Text" on widgets for purchase forms to meet with GDPR.
+* **Bug Fixes**
+* Achievement default values on shortcodes and widgets.
+* Rank default values on shortcodes and widgets.
+* Wrong label for attribute on billing address and personal information forms.
+* Wrong gateways value on widgets.
+* Wrong priority when overwriting a template.
+
+= 1.0.0 =
+
+* Initial release.

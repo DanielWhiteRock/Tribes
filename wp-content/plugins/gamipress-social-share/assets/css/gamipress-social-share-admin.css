@@ -1,0 +1,17 @@
+.dashicons-linkedin {
+    background-image: url('../img/linkedin.svg');
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.dashicons-pinterest {
+    background-image: url('../img/pinterest.svg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.widget[id*="_gamipress_social_share_"] .cmb-tabs .cmb-tab:not([id$="[general]"]) .cmb-tab-title {
+    display: none;
+}

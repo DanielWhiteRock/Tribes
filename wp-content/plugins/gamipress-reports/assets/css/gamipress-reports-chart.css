@@ -1,0 +1,112 @@
+.gamipress-reports-chart .gamipress-reports-chart-navigation {
+    border-bottom: 1px solid #e5e5e5;
+    margin: -28px -24px 4px;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.gamipress-reports-chart .gamipress-reports-chart-navigation + .gamipress-reports-chart-navigation {
+    clear: both;
+    margin: -4px -24px 4px;
+}
+
+.gamipress-reports-chart .gamipress-reports-chart-navigation:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.gamipress-reports-chart-navigation .gamipress-reports-chart-title strong {
+    display: inline-block;
+    padding: 8px 0 8px 10px;
+}
+
+.gamipress-reports-chart-navigation .gamipress-reports-chart-title span {
+    color: #72777c;
+    font-size: 11px;
+}
+
+.gamipress-reports-chart-navigation .gamipress-reports-chart-range-navigation span,
+.gamipress-reports-chart-navigation .gamipress-reports-chart-date-navigation span {
+    display: block;
+    float: left;
+    padding: 8px 10px;
+    cursor: pointer;
+}
+
+.gamipress-reports-chart-navigation .gamipress-reports-chart-title,
+.gamipress-reports-chart-navigation .gamipress-reports-chart-range-navigation {
+    float: left;
+}
+
+.gamipress-reports-chart-navigation .gamipress-reports-chart-range-navigation span {
+    border-right: 1px solid #e5e5e5;
+    min-width: 45px;
+    text-align: center;
+}
+
+.gamipress-reports-chart-navigation .gamipress-reports-chart-range-navigation span:not(.active):not(:hover) {
+    color: #72777c;
+    background-color: #f9f9f9;
+}
+
+.gamipress-reports-chart-navigation .gamipress-reports-chart-range-navigation span.active {
+    font-weight: 500;
+}
+
+.gamipress-reports-chart-navigation .gamipress-reports-chart-date-navigation {
+    float: right;
+}
+
+.gamipress-reports-chart-navigation .gamipress-reports-chart-date-navigation span {
+    border-left: 1px solid #e5e5e5;
+}
+
+.gamipress-reports-chart-navigation .gamipress-reports-chart-date-navigation span .dashicons {
+    font-size: 18px;
+    width: 18px;
+    height: 18px;
+}
+
+.gamipress-reports-chart-counters {
+    display: flex;
+    border-top: 1px solid #e5e5e5;
+    margin: 12px -24px -29px;
+}
+
+.gamipress-reports-chart-counters .gamipress-reports-chart-counter {
+    flex-grow: 1;
+    text-align: center;
+    padding: 8px 10px 10px;
+}
+
+.gamipress-reports-chart-counters .gamipress-reports-chart-counter:not(:first-child) {
+    border-left: 1px solid #e5e5e5;
+}
+
+.gamipress-reports-chart-counters .gamipress-reports-chart-counter .gamipress-reports-chart-counter-count {
+    display: block;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.gamipress-reports-chart-counters .gamipress-reports-chart-counter .gamipress-reports-chart-counter-difference {
+    display: block;
+    font-size: 11px;
+    color: #72777c;
+}
+
+.gamipress-reports-chart-counters .gamipress-reports-chart-counter .gamipress-reports-chart-counter-difference .gamipress-reports-chart-counter-difference-positive {
+    color: #0a0;
+}
+
+.gamipress-reports-chart-counters .gamipress-reports-chart-counter .gamipress-reports-chart-counter-difference .gamipress-reports-chart-counter-difference-negative {
+    color: #a00;
+}
+
+.gamipress-reports-chart-counters .gamipress-reports-chart-counter .gamipress-reports-chart-counter-label {
+    color: #72777c;
+}

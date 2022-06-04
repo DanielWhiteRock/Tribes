@@ -1,0 +1,81 @@
+== Changelog ==
+
+= 1.0.9 =
+
+* **Improvements**
+* Improvements on Facebook Like/Recommend event detection.
+
+= 1.0.8 =
+
+* **New Features**
+* Added Facebook App ID setting (now required by Facebook).
+* Added temporal Facebook App ID for not yet setup installs.
+* Added new documentation about how to setup a Facebook App ID [here](https://gamipress.com/docs/gamipress-social-share/facebook-app-id/).
+* **Bug Fixes**
+* Fixed Facebook share/recommend events.
+* Fixed duplicated script enqueueing.
+* **Improvements**
+* Updated Facebook SDK API.
+
+= 1.0.7 =
+
+* **Bug Fixes**
+* Fixed wrong notices when social buttons are rendered on archive or taxonomy pages.
+* **Improvements**
+* Prevent to render Pinterest on posts without thumbnail.
+
+= 1.0.6 =
+
+* **Bug Fixes**
+* Fixed undefined twitter object issue when other plugin loads it before.
+
+= 1.0.5 =
+
+* **New Features**
+* New social network: Pinterest.
+* Added Pinterest's attributes to [gamipress_social_share] shortcode.
+* Added Pinterest's fields to GamiPress: Social Share widget.
+* Added Pinterest's fields to GamiPress: Social Share settings.
+* Added {site_title} tag.
+* Deprecated {site_name} tag (maintained internally for backward compatibility).
+* **Bug Fixes**
+* Fixed LinkedIn share event.
+* Removed deprecated Facebook share action.
+* Fixed wrong priority when overwriting a template.
+* **Developer Notes**
+* Added Javascript events to let other plugins known when something has been shared.
+
+= 1.0.4 =
+
+* **Bug Fixes**
+* Fixed wrong post types loaded on specific activity triggers.
+* Fixed error notice about undefined index when saving requirements.
+
+= 1.0.3 =
+
+* **New Features**
+* Added activity events to award to post authors that receive shares on their posts.
+* Added "Alignment" setting to set alignment where buttons are displayed automatically.
+* Added "Alignment" field to GamiPress: Social Share Buttons widget.
+* Added "alignment" attribute to [gamipress_social_share] shortcode.
+* Added tabs on shortcode editor and widget forms.
+* **Bug Fixes**
+* Fixed scripts enqueuing on rank edit screen.
+* Fixed wrong fields display on shortcode editor.
+* Fixed wrong text domains in some fields descriptions.
+* **Improvements**
+* Updated Facebook SDK API.
+
+= 1.0.2 =
+
+* **Improvements**
+* Added support for GamiPress 1.3.7 requirements UI.
+
+= 1.0.1 =
+
+* **Improvements**
+* Added support for GamiPress 1.2.8.
+
+= 1.0.0 =
+
+* Initial release.

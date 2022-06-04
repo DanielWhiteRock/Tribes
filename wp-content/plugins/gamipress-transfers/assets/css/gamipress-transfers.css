@@ -1,0 +1,62 @@
+.gamipress-transfers-points-transfer-form-custom-amount,
+.gamipress-transfers-points-transfer-form-options-custom-amount-input {
+    display: inline-block;
+    width: 200px;
+}
+
+.gamipress-transfers-form-submit-button {
+    cursor: pointer;
+}
+
+.gamipress-transfers-positive {
+    color: green;
+}
+
+.gamipress-transfers-negative {
+    color: red;
+}
+
+/* Recipient, achievement and rank autocomplete */
+.gamipress-transfers-recipient-form-recipient,
+.gamipress-transfers-achievement-transfer-form-achievement-input,
+.gamipress-transfers-rank-transfer-form-rank-input {
+    position: relative;
+}
+
+.gamipress-transfers-recipient-form-recipient .ui-autocomplete,
+.gamipress-transfers-achievement-transfer-form-achievement-input .ui-autocomplete,
+.gamipress-transfers-rank-transfer-form-rank-input .ui-autocomplete {
+    position: absolute !important;
+    width: 100%;
+    margin: 0;
+    list-style: none;
+    border: 1px solid #aaa;
+    background: #fff;
+}
+
+.gamipress-transfers-recipient-form-recipient .ui-autocomplete-loading,
+.gamipress-transfers-achievement-transfer-form-achievement-input .ui-autocomplete-loading,
+.gamipress-transfers-rank-transfer-form-rank-input .ui-autocomplete-loading {
+    background-image: url('../img/spinner.gif');
+    background-position: 98% 50%;
+    background-repeat: no-repeat;
+}
+
+.gamipress-transfers-recipient-form-recipient .ui-autocomplete li,
+.gamipress-transfers-achievement-transfer-form-achievement-input .ui-autocomplete li,
+.gamipress-transfers-rank-transfer-form-rank-input .ui-autocomplete li {
+    cursor: pointer;
+    margin: 0;
+    padding: 0.5rem;
+}
+
+.gamipress-transfers-recipient-form-recipient .ui-autocomplete li:hover,
+.gamipress-transfers-achievement-transfer-form-achievement-input .ui-autocomplete li:hover,
+.gamipress-transfers-rank-transfer-form-rank-input .ui-autocomplete li:hover {
+    background-color: #efefef;
+}
+
+.gamipress-transfers-achievement-transfer-form-achievement-input .ui-autocomplete li small,
+.gamipress-transfers-rank-transfer-form-rank-input .ui-autocomplete li small {
+    display: block;
+}

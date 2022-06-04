@@ -1,0 +1,369 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GamiPress Submissions\n"
+"Report-Msgid-Bugs-To: https://gamipress.com/\n"
+"POT-Creation-Date: 2022-05-19 16:55+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://gamipress.com/)\n"
+"Language-Team: GamiPress <contact@gamipress.com>\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: gamipress-submissions.php:144
+#, php-format
+msgid "GamiPress - Submissions requires %s (%s or higher) in order to work. Please install and activate them."
+msgstr ""
+
+#: includes/admin.php:23 includes/admin.php:105 includes/admin.php:194
+#: includes/custom-tables.php:25 includes/custom-tables.php:33
+msgid "Submissions"
+msgstr ""
+
+#: includes/admin.php:62
+msgid "Submissions: Pending submission email"
+msgstr ""
+
+#: includes/admin.php:65
+msgid "Disable pending submission emails"
+msgstr ""
+
+#: includes/admin.php:66
+msgid "Check this option to do not receive emails about pending submissions."
+msgstr ""
+
+#: includes/admin.php:71
+msgid "Email subject"
+msgstr ""
+
+#: includes/admin.php:72
+msgid "The email subject."
+msgstr ""
+
+#: includes/admin.php:74 includes/emails.php:39
+msgid "New submission #{id}"
+msgstr ""
+
+#: includes/admin.php:77
+msgid "Email content"
+msgstr ""
+
+#: includes/admin.php:78
+msgid "The email content. Available tags:"
+msgstr ""
+
+#: includes/admin.php:81 includes/emails.php:40
+msgid "{user} sent a new submission for {post_link}."
+msgstr ""
+
+#: includes/admin.php:82 includes/emails.php:41
+msgid "Additional notes: {notes}"
+msgstr ""
+
+#: includes/admin.php:109
+msgid "Allow unlock through submission"
+msgstr ""
+
+#: includes/admin.php:110
+msgid "Check this option to allow users unlock through an admin reviewed submission."
+msgstr ""
+
+#: includes/admin.php:115
+msgid "Submission toggle button text"
+msgstr ""
+
+#: includes/admin.php:116
+msgid "The submission toggle button text. By default, \"Show submission form\". Leave empty to disable the toggle button."
+msgstr ""
+
+#: includes/admin.php:117
+msgid "<strong>Note:</strong> The toggle button will be displayed only if notes are active."
+msgstr ""
+
+#: includes/admin.php:119
+msgid "Show submission form"
+msgstr ""
+
+#: includes/admin.php:122
+msgid "Submission submit button text"
+msgstr ""
+
+#: includes/admin.php:123
+msgid "The submission submit button text. By default, \"Submit\"."
+msgstr ""
+
+#: includes/admin.php:125 includes/functions.php:38
+msgid "Submit"
+msgstr ""
+
+#: includes/admin.php:128
+msgid "Allow submission notes"
+msgstr ""
+
+#: includes/admin.php:129
+msgid "Check this option to allow users to enter notes with their submission."
+msgstr ""
+
+#: includes/admin.php:134
+msgid "Notes input label"
+msgstr ""
+
+#: includes/admin.php:135
+msgid "The notes input label. By default, \"Describe why you should earn this item:\"."
+msgstr ""
+
+#: includes/admin.php:137 includes/functions.php:45
+msgid "Describe why you should earn this item:"
+msgstr ""
+
+#: includes/admin.php:140
+msgid "Auto-approve submissions"
+msgstr ""
+
+#: includes/admin.php:141
+msgid "Check this option to approve submission automatically without need to review them."
+msgstr ""
+
+#: includes/admin.php:167
+msgid "GamiPress Submissions"
+msgstr ""
+
+#: includes/admin.php:170
+msgid "License"
+msgstr ""
+
+#: includes/ajax-functions.php:24 includes/ajax-functions.php:31
+msgid "You are not allowed to perform this action."
+msgstr ""
+
+#: includes/ajax-functions.php:40
+msgid "Invalid item."
+msgstr ""
+
+#: includes/ajax-functions.php:45
+msgid "Submissions not enabled for this item."
+msgstr ""
+
+#: includes/ajax-functions.php:55
+msgid "You have already perform a submission and is waiting for approval."
+msgstr ""
+
+#: includes/ajax-functions.php:101
+msgid "Your submission has been sent successfully."
+msgstr ""
+
+#: includes/ajax-functions.php:103 templates/submission-form.php:20
+msgid "Your submission has been sent successfully and is waiting for approval."
+msgstr ""
+
+#: includes/custom-tables.php:24 includes/custom-tables/submissions.php:106
+#: includes/custom-tables/submissions.php:495
+msgid "Submission"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:107
+#: includes/custom-tables/submissions.php:500
+msgid "User"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:108
+#: includes/custom-tables/submissions.php:521
+msgid "To Award"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:109
+#: includes/custom-tables/submissions.php:552
+msgid "Date"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:110
+#: includes/custom-tables/submissions.php:545
+msgid "Status"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:111
+#: includes/custom-tables/submissions.php:475
+msgid "Actions"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:219
+#: includes/custom-tables/submissions.php:577
+msgid "Approve"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:221
+#: includes/custom-tables/submissions.php:581
+msgid "Reject"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:226
+#: includes/custom-tables/submissions.php:586
+msgid "Revoke"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:231
+#: includes/custom-tables/submissions.php:591
+msgid "Mark as pending"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:458
+msgid "Submission approved successfully."
+msgstr ""
+
+#: includes/custom-tables/submissions.php:459
+msgid "Submission rejected successfully."
+msgstr ""
+
+#: includes/custom-tables/submissions.php:460
+msgid "Submission revoked successfully."
+msgstr ""
+
+#: includes/custom-tables/submissions.php:461
+msgid "Submission marked as pending successfully."
+msgstr ""
+
+#: includes/custom-tables/submissions.php:474
+msgid "Details"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:540
+msgid "Notes"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:645
+msgid "Are you sure you want to delete this item?\\n\\nClick \\'Cancel\\' to go back, \\'OK\\' to confirm the delete."
+msgstr ""
+
+#: includes/custom-tables/submissions.php:647
+msgid "Delete permanently"
+msgstr ""
+
+#: includes/custom-tables/submissions.php:648
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/scripts.php:40
+msgid "Please, fill the form"
+msgstr ""
+
+#: includes/shortcodes.php:26 includes/shortcodes.php:68
+msgid "Show Submissions"
+msgstr ""
+
+#: includes/shortcodes.php:27
+msgid "Display a submission form if achievement has submissions enabled."
+msgstr ""
+
+#: includes/shortcodes.php:69
+msgid "Display a submission form if rank has submissions enabled."
+msgstr ""
+
+#: includes/shortcodes/gamipress_submission.php:21
+msgid "Submission Form"
+msgstr ""
+
+#: includes/shortcodes/gamipress_submission.php:22
+msgid "Render a submission form of a desired element."
+msgstr ""
+
+#: includes/shortcodes/gamipress_submission.php:27
+msgid "Achievement or Rank"
+msgstr ""
+
+#: includes/shortcodes/gamipress_submission.php:28
+msgid "The achievement or rank to render the submission form."
+msgstr ""
+
+#: includes/shortcodes/gamipress_submission.php:29
+msgid "The ID of the achievement or rank to render the submission form."
+msgstr ""
+
+#: includes/shortcodes/gamipress_submission.php:34
+msgid "Select an item"
+msgstr ""
+
+#: includes/shortcodes/gamipress_submission.php:73
+msgid "Please, provide a valid item ID."
+msgstr ""
+
+#: includes/shortcodes/gamipress_submission.php:79
+msgid "Item ID provided is not an achievement or rank."
+msgstr ""
+
+#: includes/submissions.php:21
+msgid "Pending"
+msgstr ""
+
+#: includes/submissions.php:22
+msgid "Approved"
+msgstr ""
+
+#: includes/submissions.php:23
+msgid "Rejected"
+msgstr ""
+
+#: includes/submissions.php:24
+msgid "Revoked"
+msgstr ""
+
+#: includes/template-functions.php:41
+msgid "User display name."
+msgstr ""
+
+#: includes/template-functions.php:42
+msgid "User email."
+msgstr ""
+
+#: includes/template-functions.php:43
+msgid "User first name."
+msgstr ""
+
+#: includes/template-functions.php:44
+msgid "User last name."
+msgstr ""
+
+#: includes/template-functions.php:45
+msgid "User ID (useful for shortcodes that user ID can be passed as attribute)."
+msgstr ""
+
+#: includes/template-functions.php:95
+msgid "The submission number."
+msgstr ""
+
+#: includes/template-functions.php:96
+msgid "The ID of the achievement or rank the user sent the submission."
+msgstr ""
+
+#: includes/template-functions.php:97
+msgid "The title of the achievement or rank the user sent the submission."
+msgstr ""
+
+#: includes/template-functions.php:98
+msgid "The link of the achievement or rank the user sent the submission."
+msgstr ""
+
+#: includes/template-functions.php:99
+msgid "The submission notes."
+msgstr ""
+
+#: includes/template-functions.php:114
+msgid "Show tags"
+msgstr ""
+
+#: includes/widgets/submission-widget.php:23
+msgid "GamiPress: Submission Form"
+msgstr ""
+
+#: includes/widgets/submission-widget.php:24
+msgid "Display a submission form of a desired element."
+msgstr ""

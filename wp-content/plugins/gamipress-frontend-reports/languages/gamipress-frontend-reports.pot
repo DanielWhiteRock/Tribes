@@ -1,0 +1,911 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GamiPress Frontend Reports\n"
+"Report-Msgid-Bugs-To: https://gamipress.com/\n"
+"POT-Creation-Date: 2020-01-09 11:43+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://gamipress.com/)\n"
+"Language-Team: GamiPress <contact@gamipress.com>\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: gamipress-frontend-reports.php:144
+#, php-format
+msgid "GamiPress - Frontend Reports requires %s in order to work. Please install and activate it."
+msgstr ""
+
+#: includes/admin.php:23
+msgid "GamiPress Frontend Reports"
+msgstr ""
+
+#: includes/admin.php:26
+msgid "License"
+msgstr ""
+
+#: includes/admin.php:50 includes/shortcodes.php:41
+msgid "Frontend Reports"
+msgstr ""
+
+#: includes/ajax-functions.php:186
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:256
+#: includes/shortcodes/gamipress_frontend_reports_points.php:42
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:66
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:228
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:71
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:66
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:288
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:71
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:66
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:284
+msgid "Earned"
+msgstr ""
+
+#: includes/ajax-functions.php:200
+#: includes/shortcodes/gamipress_frontend_reports_points.php:43
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:67
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:229
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:72
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:67
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:281
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:72
+msgid "Deducted"
+msgstr ""
+
+#: includes/ajax-functions.php:213
+#: includes/shortcodes/gamipress_frontend_reports_points.php:44
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:68
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:230
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:73
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:68
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:284
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:73
+msgid "Expended"
+msgstr ""
+
+#: includes/chart-functions.php:30
+msgid "Inline"
+msgstr ""
+
+#: includes/chart-functions.php:31
+msgid "Line"
+msgstr ""
+
+#: includes/chart-functions.php:32
+msgid "Vertical Bar"
+msgstr ""
+
+#: includes/chart-functions.php:33
+msgid "Horizontal Bar"
+msgstr ""
+
+#: includes/chart-functions.php:34
+msgid "Radar"
+msgstr ""
+
+#: includes/chart-functions.php:35
+msgid "Doughnut"
+msgstr ""
+
+#: includes/chart-functions.php:36
+msgid "Pie"
+msgstr ""
+
+#: includes/chart-functions.php:37
+msgid "Polar Area"
+msgstr ""
+
+#: includes/graph-functions.php:73
+msgid "Current Week"
+msgstr ""
+
+#: includes/graph-functions.php:74
+msgid "Past Week"
+msgstr ""
+
+#: includes/graph-functions.php:75
+msgid "Current Month"
+msgstr ""
+
+#: includes/graph-functions.php:76
+msgid "Past Month"
+msgstr ""
+
+#: includes/graph-functions.php:77
+msgid "Current Year"
+msgstr ""
+
+#: includes/graph-functions.php:78
+msgid "Past Year"
+msgstr ""
+
+#: includes/graph-functions.php:79
+msgid "Custom"
+msgstr ""
+
+#: includes/graph-functions.php:103
+msgid "Week"
+msgstr ""
+
+#: includes/graph-functions.php:104
+msgid "Month"
+msgstr ""
+
+#: includes/graph-functions.php:105
+msgid "Year"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:19
+msgid "Achievement Types Chart"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:20
+#: includes/widgets/achievement-types-chart-widget.php:24
+msgid "Render a chart with user achievements earned of desired achievement type(s)."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:27
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:27
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:27
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:27
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:27
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:27
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:27
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:27
+msgid "General"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:37
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:83
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:42
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:37
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:93
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:43
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:37
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:94
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:43
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:37
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:93
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:42
+msgid "Style"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:50
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:54
+msgid "Achievement Type(s)"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:51
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:55
+msgid "Choose the achievement type(s)."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:56
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:60
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:56
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:61
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:56
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:60
+msgid "Default: All"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:62
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:66
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:38
+#: includes/shortcodes/gamipress_frontend_reports_points.php:48
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:72
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:77
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:73
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:77
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:72
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:66
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:38
+msgid "Current User"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:63
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:67
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:39
+msgid "Show achievements earned of the current logged in user."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:69
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:73
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:45
+#: includes/shortcodes/gamipress_frontend_reports_points.php:55
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:79
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:84
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:80
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:84
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:79
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:73
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:45
+msgid "User"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:70
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:74
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:46
+msgid "Show achievements earned of a specific user."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:76
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:80
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:52
+#: includes/shortcodes/gamipress_frontend_reports_points.php:62
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:86
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:91
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:87
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:91
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:86
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:80
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:52
+msgid "Select an user"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:84
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:94
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:95
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:94
+msgid "Choose how to render the chart."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:90
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:100
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:101
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:100
+msgid "Chart legend"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:91
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:101
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:102
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:101
+msgid "Show chart legend."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:96
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:135
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:106
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:146
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:107
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:146
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:106
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:135
+msgid "Background Color"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:97
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:107
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:108
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:107
+msgid "Chart statistics background color."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:98
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:137
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:108
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:148
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:109
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:148
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:108
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:137
+msgid "Single or comma-separated list of colors to use as chart statistics background color. Accepts colors in format hex, rgb and rgba."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:104
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:116
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:143
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:155
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:114
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:126
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:154
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:166
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:115
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:127
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:154
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:166
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:114
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:126
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:143
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:155
+msgid "Add Color"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:108
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:147
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:118
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:158
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:119
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:158
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:118
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:147
+msgid "Border Color"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:109
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:119
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:120
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:119
+msgid "Chart statistics border color."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:110
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:149
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:120
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:160
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:121
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:160
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:120
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:149
+msgid "Single or comma-separated list of colors to use as chart statistics border color. Accepts colors in format hex, rgb and rgba."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:120
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:159
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:130
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:170
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:131
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:170
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:130
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:159
+msgid "Grid Lines Color"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:121
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:160
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:131
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:171
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:132
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:171
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:131
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:160
+msgid "The grid lines color. Accepts colors in format hex, rgb and rgba."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:127
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:166
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:137
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:177
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:138
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:177
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:137
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:166
+msgid "Maximum Number of Ticks"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:128
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:167
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:138
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:178
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:139
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:178
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:138
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:167
+msgid "Set the maximum number of ticks. Leave blank to auto-calculate them."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:188
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:231
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:90
+#: includes/shortcodes/gamipress_frontend_reports_points.php:101
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:189
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:234
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:200
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:243
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:199
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:231
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:90
+msgid "Please, provide the type attribute."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:194
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:237
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:95
+msgid "The type provided isn't a valid registered achievement type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:208
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:251
+msgid "All types provided aren't valid registered achievement types."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:218
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:261
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:103
+#: includes/shortcodes/gamipress_frontend_reports_points.php:114
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:207
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:252
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:230
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:273
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:229
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:261
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:103
+msgid "Please, provide the user_id attribute."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:260
+msgid "Any type provided isn't a valid registered achievement type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_chart.php:264
+msgid "You need to provide more achievement types for this chart style."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:19
+msgid "Achievement Types Graph"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:20
+msgid "Render a graph with user earned achievements of desired achievement type(s)."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:85
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:96
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:85
+msgid "Show Period"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:86
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:97
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:86
+msgid "Display the period inputs."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:92
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:103
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:103
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:92
+msgid "Period Initial Value"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:93
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:104
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:104
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:93
+msgid "Set period initial value. If you hide the period input, user won't be able to change this value."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:99
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:110
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:110
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:99
+msgid "Period Start Date"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:100
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:111
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:111
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:100
+msgid "Period start date. Leave blank to no filter by a start date (graph will be filtered only to the end date)."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:101
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:107
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:112
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:118
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:112
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:118
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:101
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:107
+msgid "Accepts any valid PHP date format."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:101
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:107
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:112
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:118
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:112
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:118
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:101
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:107
+msgid "More information"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:105
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:116
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:116
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:105
+msgid "Period End Date"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:106
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:117
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:117
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:106
+msgid "Period end date. Leave blank to no filter by an end date (graph will be filtered from the start date to today)."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:112
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:123
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:123
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:112
+msgid "Show Range"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:113
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:124
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:124
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:113
+msgid "Display the range input."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:119
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:130
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:130
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:119
+msgid "Range Initial Value"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:120
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:131
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:131
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:120
+msgid "Set range initial value. If you hide the range input, user won't be able to change this value."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:129
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:140
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:140
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:129
+msgid "Graph legend"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:130
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:141
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:141
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:130
+msgid "Show graph legend."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:136
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:147
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:147
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:136
+msgid "Graph statistics background color."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievement_types_graph.php:148
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:159
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:159
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:148
+msgid "Graph statistics border color."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:19
+msgid "Achievements Report"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:20
+#: includes/widgets/achievements-widget.php:24
+msgid "Render an user achievements earned of a specific achievement type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:26
+msgid "Achievement Type"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:27
+msgid "Choose the achievement type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_achievements.php:33
+msgid "Choose a achievement type"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points.php:19
+msgid "Points Report"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points.php:20
+#: includes/widgets/points-widget.php:24
+msgid "Render an user points balance of a specific points type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points.php:26
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:50
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:55
+msgid "Points Type"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points.php:27
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:51
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:56
+msgid "Choose the points type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points.php:33
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:57
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:62
+msgid "Choose a points type"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points.php:38
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:62
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:67
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:62
+msgid "Amount Type"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points.php:39
+msgid "Choose the amount type to render."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points.php:49
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:73
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:78
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:74
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:78
+msgid "Show points balances of the current logged in user."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points.php:56
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:80
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:85
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:81
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:85
+msgid "Show points balances of a specific user."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points.php:106
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:194
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:239
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:206
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:249
+msgid "The type provided isn't a valid registered points type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:19
+msgid "Points Chart"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:20
+#: includes/widgets/points-chart-widget.php:24
+msgid "Render a chart with user points balances of a specific points type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:62
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:67
+msgid "Amount Type(s)"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:63
+msgid "Choose the amount type(s) to use as chart values."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:199
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:244
+msgid "Please, provide at least one amount type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:260
+msgid "Value"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:264
+msgid "Any amount types provided aren't a valid amounts."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_chart.php:268
+msgid "You need to provide more amount types for this chart style."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:19
+msgid "Points Graph"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:20
+#: includes/widgets/points-graph-widget.php:24
+msgid "Render a graph with user points balances of a specific points type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:68
+msgid "Choose the amount type(s) to use as graph values."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:96
+msgid "Show Periods"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_graph.php:97
+msgid "Display the period input."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:19
+msgid "Points Types Chart"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:20
+#: includes/widgets/points-types-chart-widget.php:24
+msgid "Render a chart with user points balances of desired points type(s)."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:50
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:55
+msgid "Points Type(s)"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:51
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:56
+msgid "Choose the points type(s)."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:63
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:63
+msgid "Choose the amount type to use as chart values."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:220
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:263
+msgid "All types provided aren't valid registered points types."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:295
+msgid "Any type provided isn't a valid registered points type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_types_chart.php:299
+msgid "You need to provide more points types for this chart style."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:19
+msgid "Points Types Graph"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:20
+#: includes/widgets/points-types-graph-widget.php:24
+msgid "Render a graph with user points balances of desired points type(s)."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_points_types_graph.php:68
+msgid "Choose the amount type to use as graph values."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:19
+msgid "Rank Types Chart"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:20
+#: includes/widgets/rank-types-chart-widget.php:24
+msgid "Render a chart with user ranks of desired rank type(s)."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:50
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:54
+msgid "Rank Type(s)"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:51
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:55
+msgid "Choose the rank type(s)."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:67
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:280
+msgid "Priority"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:73
+msgid "Show ranks of the current logged in user."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:80
+msgid "Show ranks of a specific user."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:205
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:237
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:95
+msgid "The type provided isn't a valid registered rank type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:219
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:251
+msgid "All types provided aren't valid registered rank types."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:291
+msgid "Any type provided isn't a valid registered rank type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_chart.php:295
+msgid "You need to provide more rank types for this chart style."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:19
+msgid "Rank Types Graph"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:20
+#: includes/widgets/rank-types-graph-widget.php:24
+msgid "Render a graph with user ranks of desired rank type(s)."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:67
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:39
+msgid "Show ranks earned of the current logged in user."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_rank_types_graph.php:74
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:46
+msgid "Show ranks earned of a specific user."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:19
+msgid "Ranks Report"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:20
+#: includes/widgets/ranks-widget.php:24
+msgid "Render an user ranks of a specific rank type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:26
+msgid "Rank Type"
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:27
+msgid "Choose the rank type."
+msgstr ""
+
+#: includes/shortcodes/gamipress_frontend_reports_ranks.php:33
+msgid "Choose a rank type"
+msgstr ""
+
+#: includes/widgets/achievement-types-chart-widget.php:23
+msgid "GamiPress: Achievement Types Chart"
+msgstr ""
+
+#: includes/widgets/achievement-types-graph-widget.php:23
+msgid "GamiPress: Achievement Types Graph"
+msgstr ""
+
+#: includes/widgets/achievement-types-graph-widget.php:24
+msgid "Render a graph with user achievements earned of desired achievement type(s)."
+msgstr ""
+
+#: includes/widgets/achievements-widget.php:23
+msgid "GamiPress: Achievements Report"
+msgstr ""
+
+#: includes/widgets/points-chart-widget.php:23
+msgid "GamiPress: Points Chart"
+msgstr ""
+
+#: includes/widgets/points-graph-widget.php:23
+msgid "GamiPress: Points Graph"
+msgstr ""
+
+#: includes/widgets/points-types-chart-widget.php:23
+msgid "GamiPress: Points Types Chart"
+msgstr ""
+
+#: includes/widgets/points-types-graph-widget.php:23
+msgid "GamiPress: Points Types Graph"
+msgstr ""
+
+#: includes/widgets/points-widget.php:23
+msgid "GamiPress: Points Report"
+msgstr ""
+
+#: includes/widgets/rank-types-chart-widget.php:23
+msgid "GamiPress: Rank Types Chart"
+msgstr ""
+
+#: includes/widgets/rank-types-graph-widget.php:23
+msgid "GamiPress: Rank Types Graph"
+msgstr ""
+
+#: includes/widgets/ranks-widget.php:23
+msgid "GamiPress: Ranks Report"
+msgstr ""

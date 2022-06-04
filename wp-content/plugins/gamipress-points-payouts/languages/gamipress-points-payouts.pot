@@ -1,0 +1,1173 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GamiPress Points Payouts\n"
+"Report-Msgid-Bugs-To: https://gamipress.com/\n"
+"POT-Creation-Date: 2021-11-11 11:10+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://gamipress.com/)\n"
+"Language-Team: GamiPress <contact@gamipress.com>\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: gamipress-points-payouts.php:135
+#, php-format
+msgid "GamiPress - Points Payouts requires %s (%s or higher) in order to work. Please install and activate them."
+msgstr ""
+
+#: gamipress-points-payouts.php:231 includes/admin.php:23
+#: includes/custom-tables.php:33
+#: includes/shortcodes/gamipress_points_payout_history.php:19
+msgid "Points Payout History"
+msgstr ""
+
+#: includes/admin.php:81 includes/admin.php:204 includes/admin.php:261
+#: includes/admin.php:288 includes/custom-tables.php:25
+msgid "Points Payouts"
+msgstr ""
+
+#: includes/admin.php:84
+msgid "Points Payout History Page"
+msgstr ""
+
+#: includes/admin.php:85
+msgid "Page to show a complete points payout history for the current user, including each withdrawal details. The [gamipress_points_payout_history] shortcode should be on this page."
+msgstr ""
+
+#: includes/admin.php:90
+msgid "Payment method text"
+msgstr ""
+
+#: includes/admin.php:91
+msgid "The payment method text displayed on points payout forms and history where users can enter the way to pay them."
+msgstr ""
+
+#: includes/admin.php:92
+msgid "You can enter a text like \"PayPal Email\", \"Payment Email\" or \"Bank account\" to let user know the way you will process the payment."
+msgstr ""
+
+#: includes/admin.php:93
+msgid "By default, \"Payment Method\"."
+msgstr ""
+
+#: includes/admin.php:95 includes/custom-tables/points-payouts.php:64
+#: includes/custom-tables/points-payouts.php:429
+#: includes/template-functions.php:154 templates/points-payout-details.php:55
+#: templates/points-payout-form.php:126
+msgid "Payment Method"
+msgstr ""
+
+#: includes/admin.php:98
+msgid "Currency"
+msgstr ""
+
+#: includes/admin.php:99
+msgid "Choose your currency."
+msgstr ""
+
+#: includes/admin.php:105
+msgid "Currency Position"
+msgstr ""
+
+#: includes/admin.php:106
+msgid "Location of the currency sign."
+msgstr ""
+
+#: includes/admin.php:109
+msgid "Before ($10)"
+msgstr ""
+
+#: includes/admin.php:110
+msgid "After (10$)"
+msgstr ""
+
+#: includes/admin.php:115
+msgid "Thousand separator"
+msgstr ""
+
+#: includes/admin.php:116
+msgid "The symbol (usually , or .) to separate thousands."
+msgstr ""
+
+#: includes/admin.php:121
+msgid "Decimal separator"
+msgstr ""
+
+#: includes/admin.php:122
+msgid "The symbol (usually , or .) to separate decimals."
+msgstr ""
+
+#: includes/admin.php:127
+msgid "Number of decimals"
+msgstr ""
+
+#: includes/admin.php:128
+msgid "Number of decimals points."
+msgstr ""
+
+#: includes/admin.php:158
+msgid "Points Payouts: New payout request email"
+msgstr ""
+
+#: includes/admin.php:161
+msgid "Disable new payout request emails"
+msgstr ""
+
+#: includes/admin.php:162
+msgid "Check this option to do not receive emails about new payout requests."
+msgstr ""
+
+#: includes/admin.php:167
+msgid "Email subject"
+msgstr ""
+
+#: includes/admin.php:168
+msgid "The email subject."
+msgstr ""
+
+#: includes/admin.php:170 includes/emails.php:39
+msgid "New points payout request #{id}"
+msgstr ""
+
+#: includes/admin.php:173
+msgid "Email content"
+msgstr ""
+
+#: includes/admin.php:174
+msgid "The email content. Available tags:"
+msgstr ""
+
+#: includes/admin.php:177 includes/emails.php:40
+msgid "{user} requested a new points payout."
+msgstr ""
+
+#: includes/admin.php:178 includes/emails.php:41
+msgid "Details:"
+msgstr ""
+
+#: includes/admin.php:179 includes/emails.php:42
+msgid "Points: {points} {points_label} for {money}"
+msgstr ""
+
+#: includes/admin.php:180 includes/emails.php:43
+msgid "Money: {money}"
+msgstr ""
+
+#: includes/admin.php:181 includes/emails.php:44
+msgid "{payment_method_label}: {payment_method}"
+msgstr ""
+
+#: includes/admin.php:208
+msgid "Allow Points Payouts"
+msgstr ""
+
+#: includes/admin.php:209
+msgid "Check this option to allow users to request points payouts of this points type."
+msgstr ""
+
+#: includes/admin.php:214
+msgid "Exchange Conversion"
+msgstr ""
+
+#: includes/admin.php:215
+msgid "Points to money conversion rate."
+msgstr ""
+
+#: includes/admin.php:220
+msgid "Minimum Amount"
+msgstr ""
+
+#: includes/admin.php:221
+msgid "Set the minimum amount for the points amount input. Leave it to 0 for no minimum."
+msgstr ""
+
+#: includes/admin.php:232
+msgid "Maximum Amount"
+msgstr ""
+
+#: includes/admin.php:233
+msgid "Set the maximum amount allowed for the points amount input. Leave it to 0 for no maximum."
+msgstr ""
+
+#: includes/admin.php:264
+msgid "License"
+msgstr ""
+
+#: includes/ajax-functions.php:24 includes/ajax-functions.php:31
+msgid "You are not allowed to perform this action."
+msgstr ""
+
+#: includes/ajax-functions.php:43 includes/ajax-functions.php:50
+msgid "Invalid points type."
+msgstr ""
+
+#: includes/ajax-functions.php:59 includes/ajax-functions.php:67
+#: includes/ajax-functions.php:71
+msgid "Invalid amount."
+msgstr ""
+
+#: includes/ajax-functions.php:78
+#, php-format
+msgid "Insufficient %s to withdrawal."
+msgstr ""
+
+#: includes/ajax-functions.php:95
+msgid "{user} has withdrawn {points} {points_type}"
+msgstr ""
+
+#: includes/ajax-functions.php:133
+msgid "Your withdrawal has been made successfully and is waiting for approval."
+msgstr ""
+
+#: includes/ajax-functions.php:137
+msgid "Redirecting to withdrawal details ..."
+msgstr ""
+
+#: includes/custom-tables.php:24 includes/custom-tables/points-payouts.php:60
+#: includes/shortcodes/gamipress_points_payout.php:19
+msgid "Points Payout"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:61
+#: includes/custom-tables/points-payouts.php:398
+#: includes/shortcodes/gamipress_points_payout_history.php:32
+msgid "User"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:62
+#: includes/custom-tables/points-payouts.php:419
+msgid "Points"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:63
+#: includes/custom-tables/points-payouts.php:424
+#: templates/points-payout-details.php:54
+#: templates/points-payout-history.php:61
+msgid "Money"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:65
+#: includes/custom-tables/points-payouts.php:434
+#: templates/points-payout-details.php:57
+#: templates/points-payout-history.php:63
+msgid "Status"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:66
+#: includes/custom-tables/points-payouts.php:441
+#: templates/points-payout-details.php:56
+#: templates/points-payout-history.php:62
+msgid "Date"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:67
+#: includes/custom-tables/points-payouts.php:373
+#: templates/points-payout-history.php:64
+msgid "Actions"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:168
+#: includes/custom-tables/points-payouts.php:466
+msgid "Mark as paid"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:170
+#: includes/custom-tables/points-payouts.php:470
+msgid "Reject"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:175
+#: includes/custom-tables/points-payouts.php:475
+msgid "Refund"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:284
+msgid "{points} {points_type} refunded to {user} since withdrawal has been rejected"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:328
+msgid "{points} {points_type} refunded to {user} since withdrawal has been refunded"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:357
+msgid "Points payout marked as paid successfully."
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:358
+msgid "Points payout rejected successfully."
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:359
+msgid "Points payout refunded successfully."
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:372
+msgid "Details"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:393
+msgid "Points payout"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:529
+msgid "Are you sure you want to delete this item?\\n\\nClick \\'Cancel\\' to go back, \\'OK\\' to confirm the delete."
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:531
+msgid "Delete permanently"
+msgstr ""
+
+#: includes/custom-tables/points-payouts.php:532
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/functions.php:252
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: includes/functions.php:253
+msgid "Afghan afghani"
+msgstr ""
+
+#: includes/functions.php:254
+msgid "Albanian lek"
+msgstr ""
+
+#: includes/functions.php:255
+msgid "Armenian dram"
+msgstr ""
+
+#: includes/functions.php:256
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: includes/functions.php:257
+msgid "Angolan kwanza"
+msgstr ""
+
+#: includes/functions.php:258
+msgid "Argentine peso"
+msgstr ""
+
+#: includes/functions.php:259
+msgid "Australian dollar"
+msgstr ""
+
+#: includes/functions.php:260
+msgid "Aruban florin"
+msgstr ""
+
+#: includes/functions.php:261
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: includes/functions.php:262
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: includes/functions.php:263
+msgid "Barbadian dollar"
+msgstr ""
+
+#: includes/functions.php:264
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: includes/functions.php:265
+msgid "Bulgarian lev"
+msgstr ""
+
+#: includes/functions.php:266
+msgid "Bahraini dinar"
+msgstr ""
+
+#: includes/functions.php:267
+msgid "Burundian franc"
+msgstr ""
+
+#: includes/functions.php:268
+msgid "Bermudian dollar"
+msgstr ""
+
+#: includes/functions.php:269
+msgid "Brunei dollar"
+msgstr ""
+
+#: includes/functions.php:270
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: includes/functions.php:271
+msgid "Brazilian real"
+msgstr ""
+
+#: includes/functions.php:272
+msgid "Bahamian dollar"
+msgstr ""
+
+#: includes/functions.php:273
+msgid "Bitcoin"
+msgstr ""
+
+#: includes/functions.php:274
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: includes/functions.php:275
+msgid "Botswana pula"
+msgstr ""
+
+#: includes/functions.php:276
+msgid "Belarusian ruble"
+msgstr ""
+
+#: includes/functions.php:277
+msgid "Belize dollar"
+msgstr ""
+
+#: includes/functions.php:278
+msgid "Canadian dollar"
+msgstr ""
+
+#: includes/functions.php:279
+msgid "Congolese franc"
+msgstr ""
+
+#: includes/functions.php:280
+msgid "Swiss franc"
+msgstr ""
+
+#: includes/functions.php:281
+msgid "Chilean peso"
+msgstr ""
+
+#: includes/functions.php:282
+msgid "Chinese yuan"
+msgstr ""
+
+#: includes/functions.php:283
+msgid "Colombian peso"
+msgstr ""
+
+#: includes/functions.php:284
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: includes/functions.php:285
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: includes/functions.php:286
+msgid "Cuban peso"
+msgstr ""
+
+#: includes/functions.php:287
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: includes/functions.php:288
+msgid "Czech koruna"
+msgstr ""
+
+#: includes/functions.php:289
+msgid "Djiboutian franc"
+msgstr ""
+
+#: includes/functions.php:290
+msgid "Danish krone"
+msgstr ""
+
+#: includes/functions.php:291
+msgid "Dominican peso"
+msgstr ""
+
+#: includes/functions.php:292
+msgid "Algerian dinar"
+msgstr ""
+
+#: includes/functions.php:293
+msgid "Egyptian pound"
+msgstr ""
+
+#: includes/functions.php:294
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: includes/functions.php:295
+msgid "Ethiopian birr"
+msgstr ""
+
+#: includes/functions.php:296
+msgid "Euro"
+msgstr ""
+
+#: includes/functions.php:297
+msgid "Fijian dollar"
+msgstr ""
+
+#: includes/functions.php:298
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: includes/functions.php:299
+msgid "Pound sterling"
+msgstr ""
+
+#: includes/functions.php:300
+msgid "Georgian lari"
+msgstr ""
+
+#: includes/functions.php:301
+msgid "Guernsey pound"
+msgstr ""
+
+#: includes/functions.php:302
+msgid "Ghana cedi"
+msgstr ""
+
+#: includes/functions.php:303
+msgid "Gibraltar pound"
+msgstr ""
+
+#: includes/functions.php:304
+msgid "Gambian dalasi"
+msgstr ""
+
+#: includes/functions.php:305
+msgid "Guinean franc"
+msgstr ""
+
+#: includes/functions.php:306
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: includes/functions.php:307
+msgid "Guyanese dollar"
+msgstr ""
+
+#: includes/functions.php:308
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: includes/functions.php:309
+msgid "Honduran lempira"
+msgstr ""
+
+#: includes/functions.php:310
+msgid "Croatian kuna"
+msgstr ""
+
+#: includes/functions.php:311
+msgid "Haitian gourde"
+msgstr ""
+
+#: includes/functions.php:312
+msgid "Hungarian forint"
+msgstr ""
+
+#: includes/functions.php:313
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: includes/functions.php:314
+msgid "Israeli new shekel"
+msgstr ""
+
+#: includes/functions.php:315
+msgid "Manx pound"
+msgstr ""
+
+#: includes/functions.php:316
+msgid "Indian rupee"
+msgstr ""
+
+#: includes/functions.php:317
+msgid "Iraqi dinar"
+msgstr ""
+
+#: includes/functions.php:318
+msgid "Iranian rial"
+msgstr ""
+
+#: includes/functions.php:319
+msgid "Iranian toman"
+msgstr ""
+
+#: includes/functions.php:320
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: includes/functions.php:321
+msgid "Jersey pound"
+msgstr ""
+
+#: includes/functions.php:322
+msgid "Jamaican dollar"
+msgstr ""
+
+#: includes/functions.php:323
+msgid "Jordanian dinar"
+msgstr ""
+
+#: includes/functions.php:324
+msgid "Japanese yen"
+msgstr ""
+
+#: includes/functions.php:325
+msgid "Kenyan shilling"
+msgstr ""
+
+#: includes/functions.php:326
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: includes/functions.php:327
+msgid "Cambodian riel"
+msgstr ""
+
+#: includes/functions.php:328
+msgid "Comorian franc"
+msgstr ""
+
+#: includes/functions.php:329
+msgid "North Korean won"
+msgstr ""
+
+#: includes/functions.php:330
+msgid "South Korean won"
+msgstr ""
+
+#: includes/functions.php:331
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: includes/functions.php:332
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: includes/functions.php:333
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: includes/functions.php:334
+msgid "Lao kip"
+msgstr ""
+
+#: includes/functions.php:335
+msgid "Lebanese pound"
+msgstr ""
+
+#: includes/functions.php:336
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: includes/functions.php:337
+msgid "Liberian dollar"
+msgstr ""
+
+#: includes/functions.php:338
+msgid "Lesotho loti"
+msgstr ""
+
+#: includes/functions.php:339
+msgid "Libyan dinar"
+msgstr ""
+
+#: includes/functions.php:340
+msgid "Moroccan dirham"
+msgstr ""
+
+#: includes/functions.php:341
+msgid "Moldovan leu"
+msgstr ""
+
+#: includes/functions.php:342
+msgid "Malagasy ariary"
+msgstr ""
+
+#: includes/functions.php:343
+msgid "Macedonian denar"
+msgstr ""
+
+#: includes/functions.php:344
+msgid "Burmese kyat"
+msgstr ""
+
+#: includes/functions.php:345
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: includes/functions.php:346
+msgid "Macanese pataca"
+msgstr ""
+
+#: includes/functions.php:347
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: includes/functions.php:348
+msgid "Mauritian rupee"
+msgstr ""
+
+#: includes/functions.php:349
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: includes/functions.php:350
+msgid "Malawian kwacha"
+msgstr ""
+
+#: includes/functions.php:351
+msgid "Mexican peso"
+msgstr ""
+
+#: includes/functions.php:352
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: includes/functions.php:353
+msgid "Mozambican metical"
+msgstr ""
+
+#: includes/functions.php:354
+msgid "Namibian dollar"
+msgstr ""
+
+#: includes/functions.php:355
+msgid "Nigerian naira"
+msgstr ""
+
+#: includes/functions.php:356
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: includes/functions.php:357
+msgid "Norwegian krone"
+msgstr ""
+
+#: includes/functions.php:358
+msgid "Nepalese rupee"
+msgstr ""
+
+#: includes/functions.php:359
+msgid "New Zealand dollar"
+msgstr ""
+
+#: includes/functions.php:360
+msgid "Omani rial"
+msgstr ""
+
+#: includes/functions.php:361
+msgid "Panamanian balboa"
+msgstr ""
+
+#: includes/functions.php:362
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: includes/functions.php:363
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: includes/functions.php:364
+msgid "Philippine peso"
+msgstr ""
+
+#: includes/functions.php:365
+msgid "Pakistani rupee"
+msgstr ""
+
+#: includes/functions.php:366
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: includes/functions.php:367
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: includes/functions.php:368
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: includes/functions.php:369
+msgid "Qatari riyal"
+msgstr ""
+
+#: includes/functions.php:370
+msgid "Romanian leu"
+msgstr ""
+
+#: includes/functions.php:371
+msgid "Serbian dinar"
+msgstr ""
+
+#: includes/functions.php:372
+msgid "Russian ruble"
+msgstr ""
+
+#: includes/functions.php:373
+msgid "Rwandan franc"
+msgstr ""
+
+#: includes/functions.php:374
+msgid "Saudi riyal"
+msgstr ""
+
+#: includes/functions.php:375
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: includes/functions.php:376
+msgid "Seychellois rupee"
+msgstr ""
+
+#: includes/functions.php:377
+msgid "Sudanese pound"
+msgstr ""
+
+#: includes/functions.php:378
+msgid "Swedish krona"
+msgstr ""
+
+#: includes/functions.php:379
+msgid "Singapore dollar"
+msgstr ""
+
+#: includes/functions.php:380
+msgid "Saint Helena pound"
+msgstr ""
+
+#: includes/functions.php:381
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: includes/functions.php:382
+msgid "Somali shilling"
+msgstr ""
+
+#: includes/functions.php:383
+msgid "Surinamese dollar"
+msgstr ""
+
+#: includes/functions.php:384
+msgid "South Sudanese pound"
+msgstr ""
+
+#: includes/functions.php:385
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: includes/functions.php:386
+msgid "Syrian pound"
+msgstr ""
+
+#: includes/functions.php:387
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: includes/functions.php:388
+msgid "Thai baht"
+msgstr ""
+
+#: includes/functions.php:389
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: includes/functions.php:390
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: includes/functions.php:391
+msgid "Tunisian dinar"
+msgstr ""
+
+#: includes/functions.php:392
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: includes/functions.php:393
+msgid "Turkish lira"
+msgstr ""
+
+#: includes/functions.php:394
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: includes/functions.php:395
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: includes/functions.php:396
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: includes/functions.php:397
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: includes/functions.php:398
+msgid "Ugandan shilling"
+msgstr ""
+
+#: includes/functions.php:399
+msgid "United States dollar"
+msgstr ""
+
+#: includes/functions.php:400
+msgid "Uruguayan peso"
+msgstr ""
+
+#: includes/functions.php:401
+msgid "Uzbekistani som"
+msgstr ""
+
+#: includes/functions.php:402
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: includes/functions.php:403
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: includes/functions.php:404
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: includes/functions.php:405
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: includes/functions.php:406
+msgid "Central African CFA franc"
+msgstr ""
+
+#: includes/functions.php:407
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: includes/functions.php:408
+msgid "West African CFA franc"
+msgstr ""
+
+#: includes/functions.php:409
+msgid "CFP franc"
+msgstr ""
+
+#: includes/functions.php:410
+msgid "Yemeni rial"
+msgstr ""
+
+#: includes/functions.php:411
+msgid "South African rand"
+msgstr ""
+
+#: includes/functions.php:412
+msgid "Zambian kwacha"
+msgstr ""
+
+#: includes/points-payouts.php:21
+msgid "Pending"
+msgstr ""
+
+#: includes/points-payouts.php:22
+msgid "Paid"
+msgstr ""
+
+#: includes/points-payouts.php:23
+msgid "Rejected"
+msgstr ""
+
+#: includes/points-payouts.php:24
+msgid "Refunded"
+msgstr ""
+
+#: includes/scripts.php:61
+msgid "Enter a valid amount."
+msgstr ""
+
+#: includes/scripts.php:62
+msgid "Fill the payment method."
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout.php:20
+msgid "Render a points payout form."
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout.php:25
+msgid "Points Type(s)"
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout.php:26
+msgid "The points type(s) to withdrawal."
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout.php:31
+msgid "Default: All"
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout.php:37
+msgid "Show payment method input"
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout.php:38
+msgid "Check this option to show the payment method input."
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout.php:43
+msgid "Button Text"
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout.php:44
+msgid "Form button text."
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout.php:46
+#: includes/shortcodes/gamipress_points_payout.php:73
+msgid "Withdrawal Points"
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout.php:118
+msgid "The type(s) provided haven't enabled the option to allow points payouts."
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout.php:129
+#, php-format
+msgid "You need to <a href=\"%s\">log in</a> to withdrawal points."
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout_history.php:20
+msgid "Render the points payout history of the current logged in user or the provided user."
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout_history.php:25
+msgid "Current User"
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout_history.php:26
+msgid "Show the points payouts history of the current logged in user."
+msgstr ""
+
+#: includes/shortcodes/gamipress_points_payout_history.php:33
+msgid "Show the points payouts history of a specific user."
+msgstr ""
+
+#: includes/template-functions.php:42
+msgid "User display name."
+msgstr ""
+
+#: includes/template-functions.php:43
+msgid "User email."
+msgstr ""
+
+#: includes/template-functions.php:44
+msgid "User first name."
+msgstr ""
+
+#: includes/template-functions.php:45
+msgid "User last name."
+msgstr ""
+
+#: includes/template-functions.php:46
+msgid "User ID (useful for shortcodes that user ID can be passed as attribute)."
+msgstr ""
+
+#: includes/template-functions.php:96
+msgid "The points payout number."
+msgstr ""
+
+#: includes/template-functions.php:97
+msgid "The amount of points requested."
+msgstr ""
+
+#: includes/template-functions.php:98
+msgid "The points type label. Singular or plural is based on the amount of points requested."
+msgstr ""
+
+#: includes/template-functions.php:99
+msgid "The amount of money to pay."
+msgstr ""
+
+#: includes/template-functions.php:100
+msgid "The payment method label (configurable on Points Payout settings)."
+msgstr ""
+
+#: includes/template-functions.php:101
+msgid "The payment method that user entered."
+msgstr ""
+
+#: includes/template-functions.php:116
+msgid "Show tags"
+msgstr ""
+
+#: includes/widgets/points-payout-history-widget.php:23
+msgid "GamiPress: Points Payout History"
+msgstr ""
+
+#: includes/widgets/points-payout-history-widget.php:24
+msgid "Display the points payout history of the current logged in user or the provided user."
+msgstr ""
+
+#: includes/widgets/points-payout-widget.php:23
+msgid "GamiPress: Points Payout"
+msgstr ""
+
+#: includes/widgets/points-payout-widget.php:24
+msgid "Display a points payout form to let users withdrawal points for money."
+msgstr ""
+
+#: templates/points-payout-details.php:52
+#: templates/points-payout-history.php:59
+msgid "Number"
+msgstr ""
+
+#: templates/points-payout-details.php:53
+#: templates/points-payout-history.php:60
+msgid "Amount"
+msgstr ""
+
+#: templates/points-payout-form.php:55
+msgid "Enter the amount you want to withdrawal"
+msgstr ""
+
+#: templates/points-payout-form.php:59
+msgid "Amount:"
+msgstr ""
+
+#: templates/points-payout-form.php:93
+msgid "Choose the type to withdrawal"
+msgstr ""
+
+#: templates/points-payout-form.php:97
+msgid "Type:"
+msgstr ""
+
+#: templates/points-payout-form.php:174
+#, php-format
+msgid "You will withdrawal %s for %s"
+msgstr ""
+
+#: templates/points-payout-form.php:183
+msgid "Current balance:"
+msgstr ""
+
+#: templates/points-payout-form.php:193
+msgid "New balance after withdrawal:"
+msgstr ""
+
+#: templates/points-payout-history.php:128
+msgid "View Details"
+msgstr ""
+
+#: templates/points-payout-history.php:187
+msgid "You have not made any withdrawals"
+msgstr ""

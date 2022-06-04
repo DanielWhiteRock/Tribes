@@ -1,0 +1,78 @@
+/* Requirements meta box */
+.cmb2-id--gamipress-restrict-unlock-requirements .postbox .cmb-nested.cmb-field-list {
+    padding: .5rem 0;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .postbox .cmb-row {
+    display: inline-block;
+    padding: 0;
+    border-bottom: none !important;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .postbox .cmb-th {
+    width: 75px;
+    font-weight: normal;
+    padding: 0 10px 0 0;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .postbox .cmb-td {
+    float: none !important;
+    width: auto !important;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-group-name {
+    padding-left: 0 !important;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb2-metabox-description {
+    color: #222;
+    display: inline-block;
+    padding: 0 !important;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row.cmb-group-description  {
+    border-bottom: 0;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements select {
+    margin-top: 0;
+    vertical-align: baseline;
+    height: 31px;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .gamipress-select2 {
+    width: 262px !important;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row[class*="--gamipress-restrict-unlock-type"],
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row[class*="--gamipress-restrict-unlock-label"] {
+    width: 100%;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row[class*="--gamipress-restrict-unlock-points "],
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row[class*="--gamipress-restrict-unlock-achievement-type"],
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row[class*="--gamipress-restrict-unlock-rank"],
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row[class*="--gamipress-restrict-unlock-achievement"] {
+    width: 360px;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row[class*="--gamipress-restrict-unlock-points"] input {
+    width: 262px;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row[class*="--gamipress-restrict-unlock-count"] input {
+    max-width: 60px;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row[class*="--gamipress-restrict-unlock-achievement-type"] select,
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row[class*="--gamipress-restrict-unlock-rank-type"] select {
+    min-width: 262px;
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row[class*="--gamipress-restrict-unlock-label"] input {
+    width: calc( 100% - 90px );
+}
+
+.cmb2-id--gamipress-restrict-unlock-requirements .cmb-row.cmb-remove-field-row {
+    display: none !important;
+}

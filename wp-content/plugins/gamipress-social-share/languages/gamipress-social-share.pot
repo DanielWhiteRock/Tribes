@@ -1,0 +1,520 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GamiPress Social Share\n"
+"Report-Msgid-Bugs-To: https://gamipress.com/\n"
+"POT-Creation-Date: 2021-03-03 16:28+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://gamipress.com/)\n"
+"Language-Team: GamiPress <contact@gamipress.com>\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: gamipress-social-share.php:144
+#, php-format
+msgid "GamiPress - Social Share requires %s (%s or higher) in order to work. Please install and activate them."
+msgstr ""
+
+#: includes/admin.php:42 includes/admin.php:362
+#: includes/shortcodes/gamipress_social_share.php:18 includes/triggers.php:55
+msgid "Social Share"
+msgstr ""
+
+#: includes/admin.php:47
+msgid "Global Settings"
+msgstr ""
+
+#: includes/admin.php:59 includes/admin.php:151 includes/functions.php:21
+#: includes/shortcodes/gamipress_social_share.php:34
+msgid "Twitter"
+msgstr ""
+
+#: includes/admin.php:71 includes/admin.php:194
+#: includes/shortcodes/gamipress_social_share.php:45 includes/triggers.php:137
+msgid "Facebook"
+msgstr ""
+
+#: includes/admin.php:84 includes/admin.php:248 includes/functions.php:24
+#: includes/shortcodes/gamipress_social_share.php:56
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/admin.php:93 includes/admin.php:271 includes/functions.php:25
+#: includes/shortcodes/gamipress_social_share.php:64
+msgid "Pinterest"
+msgstr ""
+
+#: includes/admin.php:107
+msgid "Display Automatically?"
+msgstr ""
+
+#: includes/admin.php:112
+msgid "Where Display?"
+msgstr ""
+
+#: includes/admin.php:115
+msgid "Before Content"
+msgstr ""
+
+#: includes/admin.php:116
+msgid "After Content"
+msgstr ""
+
+#: includes/admin.php:117
+msgid "Before and After Content"
+msgstr ""
+
+#: includes/admin.php:121 includes/shortcodes/gamipress_social_share.php:89
+msgid "Alignment"
+msgstr ""
+
+#: includes/admin.php:124 includes/shortcodes/gamipress_social_share.php:92
+msgid "Left"
+msgstr ""
+
+#: includes/admin.php:125 includes/shortcodes/gamipress_social_share.php:93
+msgid "Center"
+msgstr ""
+
+#: includes/admin.php:126 includes/admin.php:262
+#: includes/shortcodes/gamipress_social_share.php:94
+#: includes/shortcodes/gamipress_social_share.php:197
+msgid "Right"
+msgstr ""
+
+#: includes/admin.php:131
+msgid "Post Types Where Display"
+msgstr ""
+
+#: includes/admin.php:137 includes/shortcodes/gamipress_social_share.php:78
+msgid "Title"
+msgstr ""
+
+#: includes/admin.php:142 includes/shortcodes/gamipress_social_share.php:83
+msgid "URL to share"
+msgstr ""
+
+#: includes/admin.php:143 includes/shortcodes/gamipress_social_share.php:84
+msgid "Leave blank to use the current page URL."
+msgstr ""
+
+#: includes/admin.php:152
+msgid "Configure the default settings for the Twitter button."
+msgstr ""
+
+#: includes/admin.php:156 includes/shortcodes/gamipress_social_share.php:102
+msgid "Show Twitter Button?"
+msgstr ""
+
+#: includes/admin.php:161 includes/shortcodes/gamipress_social_share.php:108
+msgid "Tweet pattern"
+msgstr ""
+
+#: includes/admin.php:162 includes/shortcodes/gamipress_social_share.php:109
+msgid "Tweet message pattern. Available tags:"
+msgstr ""
+
+#: includes/admin.php:164 includes/admin.php:313
+#: includes/shortcodes/gamipress_social_share.php:111
+#: includes/shortcodes/gamipress_social_share.php:246
+#: includes/shortcodes/gamipress_social_share.php:274
+#: includes/shortcodes/gamipress_social_share.php:299
+msgid "{title} on {site_title}"
+msgstr ""
+
+#: includes/admin.php:167 includes/shortcodes/gamipress_social_share.php:114
+msgid "Username"
+msgstr ""
+
+#: includes/admin.php:168 includes/shortcodes/gamipress_social_share.php:115
+msgid "Attribution of the Tweet source. Attribution will appear at the end of the Tweet as \"via @username\"."
+msgstr ""
+
+#: includes/admin.php:172 includes/shortcodes/gamipress_social_share.php:120
+msgid "Count Box"
+msgstr ""
+
+#: includes/admin.php:175 includes/shortcodes/gamipress_social_share.php:123
+msgid "Vertical"
+msgstr ""
+
+#: includes/admin.php:176 includes/shortcodes/gamipress_social_share.php:124
+msgid "Horizontal"
+msgstr ""
+
+#: includes/admin.php:177 includes/admin.php:263
+#: includes/shortcodes/gamipress_social_share.php:125
+#: includes/shortcodes/gamipress_social_share.php:198
+msgid "None"
+msgstr ""
+
+#: includes/admin.php:182 includes/admin.php:231
+#: includes/shortcodes/gamipress_social_share.php:130
+#: includes/shortcodes/gamipress_social_share.php:169
+msgid "Button Size"
+msgstr ""
+
+#: includes/admin.php:185 includes/shortcodes/gamipress_social_share.php:133
+msgid "Medium"
+msgstr ""
+
+#: includes/admin.php:186 includes/admin.php:235 includes/admin.php:292
+#: includes/shortcodes/gamipress_social_share.php:134
+#: includes/shortcodes/gamipress_social_share.php:173
+#: includes/shortcodes/gamipress_social_share.php:224
+msgid "Large"
+msgstr ""
+
+#: includes/admin.php:195
+msgid "Configure the default settings for the Facebook button."
+msgstr ""
+
+#: includes/admin.php:199 includes/shortcodes/gamipress_social_share.php:142
+msgid "Show Facebook Button?"
+msgstr ""
+
+#: includes/admin.php:204
+msgid "App ID"
+msgstr ""
+
+#: includes/admin.php:205
+msgid "Your Facebook App ID. Social Share add-on comes with a temporal App ID but is recommended to create your own."
+msgstr ""
+
+#: includes/admin.php:206
+msgid "More information"
+msgstr ""
+
+#: includes/admin.php:210 includes/shortcodes/gamipress_social_share.php:148
+msgid "Button Action"
+msgstr ""
+
+#: includes/admin.php:213 includes/shortcodes/gamipress_social_share.php:151
+msgid "Like"
+msgstr ""
+
+#: includes/admin.php:214 includes/shortcodes/gamipress_social_share.php:152
+msgid "Recommend"
+msgstr ""
+
+#: includes/admin.php:215 includes/shortcodes/gamipress_social_share.php:153
+#: templates/facebook.php:33
+msgid "Share"
+msgstr ""
+
+#: includes/admin.php:220 includes/shortcodes/gamipress_social_share.php:158
+msgid "Button Layout"
+msgstr ""
+
+#: includes/admin.php:223 includes/shortcodes/gamipress_social_share.php:161
+msgid "Standard"
+msgstr ""
+
+#: includes/admin.php:224 includes/shortcodes/gamipress_social_share.php:162
+msgid "Box Count"
+msgstr ""
+
+#: includes/admin.php:225 includes/shortcodes/gamipress_social_share.php:163
+msgid "Button Count"
+msgstr ""
+
+#: includes/admin.php:226 includes/shortcodes/gamipress_social_share.php:164
+msgid "Button"
+msgstr ""
+
+#: includes/admin.php:234 includes/shortcodes/gamipress_social_share.php:172
+msgid "Small"
+msgstr ""
+
+#: includes/admin.php:240 includes/shortcodes/gamipress_social_share.php:178
+msgid "Add Share Action"
+msgstr ""
+
+#: includes/admin.php:249
+msgid "Configure the default settings for the LinkedIn button."
+msgstr ""
+
+#: includes/admin.php:253 includes/shortcodes/gamipress_social_share.php:187
+msgid "Show LinkedIn Button?"
+msgstr ""
+
+#: includes/admin.php:258 includes/shortcodes/gamipress_social_share.php:193
+msgid "Counter"
+msgstr ""
+
+#: includes/admin.php:261 includes/shortcodes/gamipress_social_share.php:196
+msgid "Top"
+msgstr ""
+
+#: includes/admin.php:272
+msgid "Configure the default settings for the Pinterest button."
+msgstr ""
+
+#: includes/admin.php:276 includes/shortcodes/gamipress_social_share.php:206
+msgid "Show Pinterest Button?"
+msgstr ""
+
+#: includes/admin.php:281 includes/shortcodes/gamipress_social_share.php:212
+msgid "Thumbnail URL"
+msgstr ""
+
+#: includes/admin.php:282 includes/shortcodes/gamipress_social_share.php:213
+msgid "Leave blank to use the current page thumbnail."
+msgstr ""
+
+#: includes/admin.php:287 includes/shortcodes/gamipress_social_share.php:218
+msgid "Round"
+msgstr ""
+
+#: includes/admin.php:297
+msgid "Save Count"
+msgstr ""
+
+#: includes/admin.php:300 includes/shortcodes/gamipress_social_share.php:233
+msgid "Not shown"
+msgstr ""
+
+#: includes/admin.php:301 includes/shortcodes/gamipress_social_share.php:234
+msgid "Above the button"
+msgstr ""
+
+#: includes/admin.php:302 includes/shortcodes/gamipress_social_share.php:235
+msgid "Beside the button"
+msgstr ""
+
+#: includes/admin.php:307 includes/shortcodes/gamipress_social_share.php:240
+msgid "Description pattern"
+msgstr ""
+
+#: includes/admin.php:308 includes/shortcodes/gamipress_social_share.php:241
+msgid "Description pattern (maximum 500 characters). Available tags:"
+msgstr ""
+
+#: includes/admin.php:335
+msgid "GamiPress Social Share"
+msgstr ""
+
+#: includes/admin.php:338
+msgid "License"
+msgstr ""
+
+#: includes/ajax-functions.php:22
+msgid "Missing parameters"
+msgstr ""
+
+#: includes/ajax-functions.php:61
+msgid "Share successful"
+msgstr ""
+
+#: includes/functions.php:22
+msgid "Facebook (Like/Recommend)"
+msgstr ""
+
+#: includes/functions.php:23
+msgid "Facebook (Share)"
+msgstr ""
+
+#: includes/logs.php:72
+msgid "URL"
+msgstr ""
+
+#: includes/logs.php:73
+msgid "URL assigned to this log."
+msgstr ""
+
+#: includes/logs.php:82
+msgid "Social Network"
+msgstr ""
+
+#: includes/logs.php:83
+msgid "Social network assigned to this log."
+msgstr ""
+
+#: includes/requirements.php:73
+msgid "Select a social network"
+msgstr ""
+
+#: includes/shortcodes/gamipress_social_share.php:19
+msgid "Render buttons to let users share the current post."
+msgstr ""
+
+#: includes/shortcodes/gamipress_social_share.php:25
+msgid "General"
+msgstr ""
+
+#: includes/shortcodes/gamipress_social_share.php:230
+msgid "Show Saves Count"
+msgstr ""
+
+#: includes/template-functions.php:41
+msgid "Site name."
+msgstr ""
+
+#: includes/template-functions.php:42
+msgid "The post title."
+msgstr ""
+
+#: includes/template-functions.php:43
+msgid "The post excerpt."
+msgstr ""
+
+#: includes/template-functions.php:44
+msgid "The post content."
+msgstr ""
+
+#: includes/template-functions.php:45
+msgid "The post type."
+msgstr ""
+
+#: includes/template-functions.php:46
+msgid "The post date."
+msgstr ""
+
+#: includes/template-functions.php:47
+msgid "The last modified post date."
+msgstr ""
+
+#: includes/template-functions.php:48
+msgid "The post author name."
+msgstr ""
+
+#: includes/template-functions.php:49
+msgid "Current logged in user name."
+msgstr ""
+
+#: includes/template-functions.php:50
+msgid "(Deprecated, use {site_title} instead) Site name."
+msgstr ""
+
+#: includes/triggers.php:23
+msgid "Share any url on any social network"
+msgstr ""
+
+#: includes/triggers.php:24
+msgid "Share specific url on any social network"
+msgstr ""
+
+#: includes/triggers.php:25
+msgid "Share any url on specific social network"
+msgstr ""
+
+#: includes/triggers.php:26
+msgid "Share specific url on specific social network"
+msgstr ""
+
+#: includes/triggers.php:29
+msgid "Share any post on any social network"
+msgstr ""
+
+#: includes/triggers.php:30
+msgid "Share specific post on any social network"
+msgstr ""
+
+#: includes/triggers.php:31
+msgid "Share any post on specific social network"
+msgstr ""
+
+#: includes/triggers.php:32
+msgid "Share specific post on specific social network"
+msgstr ""
+
+#: includes/triggers.php:35
+msgid "Get a share on any social network on any post"
+msgstr ""
+
+#: includes/triggers.php:36
+msgid "Get a share on any social network on a specific post"
+msgstr ""
+
+#: includes/triggers.php:37
+msgid "Get a share on a specific social network on any post"
+msgstr ""
+
+#: includes/triggers.php:38
+msgid "Get a share on a specific social network on a specific post"
+msgstr ""
+
+#: includes/triggers.php:97 includes/triggers.php:126
+#, php-format
+msgid "Share %s on any social network"
+msgstr ""
+
+#: includes/triggers.php:98
+#, php-format
+msgid "Share %s on a specific social network"
+msgstr ""
+
+#: includes/triggers.php:100
+#, php-format
+msgid " Get a share on any social network on %s"
+msgstr ""
+
+#: includes/triggers.php:101
+#, php-format
+msgid "Get a share on a specific social network on %s"
+msgstr ""
+
+#: includes/triggers.php:144
+msgid "Like or recommend any url on Facebook"
+msgstr ""
+
+#: includes/triggers.php:147
+#, php-format
+msgid "Share any url on %s"
+msgstr ""
+
+#: includes/triggers.php:153 includes/triggers.php:172
+#, php-format
+msgid "Like or recommend %s on Facebook"
+msgstr ""
+
+#: includes/triggers.php:156 includes/triggers.php:175
+#, php-format
+msgid "Share %s on %s"
+msgstr ""
+
+#: includes/triggers.php:163
+msgid "Like or recommend any post on Facebook"
+msgstr ""
+
+#: includes/triggers.php:166
+#, php-format
+msgid "Share any post on %s"
+msgstr ""
+
+#: includes/triggers.php:182
+msgid "Get a like or recommendation on Facebook on any post"
+msgstr ""
+
+#: includes/triggers.php:185
+#, php-format
+msgid "Get a share on %s on any post"
+msgstr ""
+
+#: includes/triggers.php:191
+#, php-format
+msgid "Get a like or recommendation on Facebook on %s"
+msgstr ""
+
+#: includes/triggers.php:194
+#, php-format
+msgid "Get a share on %s on %s"
+msgstr ""
+
+#: includes/widgets/social-share-widget.php:23
+msgid "GamiPress: Social Share Buttons"
+msgstr ""
+
+#: includes/widgets/social-share-widget.php:24
+msgid "Display buttons to let users share the current post."
+msgstr ""
