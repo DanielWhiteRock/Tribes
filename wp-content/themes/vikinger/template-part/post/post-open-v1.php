@@ -59,8 +59,71 @@
         <h2 class="post-open-title"><?php echo wp_kses($args['post']['title'], vikinger_wp_kses_post_title_get_allowed_tags()); ?></h2>
         <!-- /POST OPEN TITLE -->
       </div>
-      <!-- /POST OPEN HEADING -->
 
+
+
+          <!-- 1 -->
+
+          <div class="tribe-post-action-box">
+      <a class="menu-item-link text-tooltip-tfr"  data-title="Share" style="position: relative;">
+
+
+    
+<!-- ICON SVG -->
+<svg class="icon-share dashicons-share menu-item-link-icon">
+  <use href="#svg-newsfeed"></use>
+</svg>
+<div class="share-url tribe-share" style="display:none">
+          <input type="text" value="<?php echo esc_url( get_permalink() ); ?>?ref=<?php $current_user = wp_get_current_user(); echo $current_user->user_login ?>">
+					<?php echo do_shortcode('[gamipress_social_share]'); ?>
+				</div>
+<!-- ICON SVG -->    
+          <!-- 1 -->
+          </a>
+
+      </div>  
+    <!-- ICON SVG -->
+
+			
+				<div class="tribe-comments tribe-post-action-box">
+        <style>
+          .share-url{
+            float: left;
+            position: fixed;
+            min-width: 300px;
+            right: 3%;
+          }
+          .tribe-post-action-box{
+            display: inline-block;
+            float: right;
+            position: relative;
+            bottom: 50px;
+            margin: 20px;
+          }
+        </style>
+				<script>
+
+          jQuery(document).ready(function(){
+              // Share Click
+              console.log('ok')
+              jQuery(".dashicons-share").click(function() {
+                  jQuery(this).parent().parent().find(".tribe-share").toggle();
+              })
+          });
+        </script>
+				<?php 
+				global $current_user;
+				get_currentuserinfo();
+				if (is_user_logged_in() && $current_user->ID == $post->post_author)  {
+					$post_link = get_edit_post_link( $post_id );
+			        echo '<a href="'.$post_link.'" class="menu-item-link text-tooltip-tfr "  data-title="Edit">
+              <svg class="icon-settings menu-item-link-icon">
+              <use href="#svg-settings"></use>
+            </svg>
+            </a>'; 
+			    }
+				?>
+			</div>
       <!-- POST OPEN CONTENT -->
       <div class="post-open-content">
         <!-- POST OPEN CONTENT SIDEBAR -->
@@ -139,6 +202,8 @@
     <?php if (!$current_post_is_restricted && !$current_post_category_is_restricted) : ?>
       <!-- COMMENT LIST -->
       <div id="comment-list" data-postid="<?php echo esc_attr($args['post']['id']); ?>"></div>
+1rfghjkl;
+
       <!-- /COMMENT LIST -->
     <?php endif; ?>
     </div>
@@ -146,8 +211,8 @@
   </article>
   <!-- /POST OPEN -->
 </div>
-<!-- /CONTENT GRID -->
 
+<!-- /CONTENT GRID -->
 <?php if ($blog_sidebar_is_active) : ?>
   <!-- CONTENT GRID -->
   <div class="content-grid grid medium">
