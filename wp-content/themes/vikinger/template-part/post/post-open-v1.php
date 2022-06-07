@@ -71,11 +71,10 @@
     
 <!-- ICON SVG -->
 <svg class="icon-share dashicons-share menu-item-link-icon">
-  <use href="#svg-newsfeed"></use>
+  <use href="#svg-share"></use>
 </svg>
 <div class="share-url tribe-share" style="display:none">
           <input type="text" value="<?php echo esc_url( get_permalink() ); ?>?ref=<?php $current_user = wp_get_current_user(); echo $current_user->user_login ?>">
-					<?php echo do_shortcode('[gamipress_social_share]'); ?>
 				</div>
 <!-- ICON SVG -->    
           <!-- 1 -->
@@ -104,8 +103,6 @@
 				<script>
 
           jQuery(document).ready(function(){
-              // Share Click
-              console.log('ok')
               jQuery(".dashicons-share").click(function() {
                   jQuery(this).parent().parent().find(".tribe-share").toggle();
               })
