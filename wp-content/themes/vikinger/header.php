@@ -19,6 +19,15 @@
   <link rel="icon" href="<?php site_icon_url(); ?>">
 <?php endif; ?>
 <?php wp_head(); ?>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1Q6PYPJV8R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1Q6PYPJV8R');
+</script>
 </head>
 <body <?php body_class(); ?>>
 <?php wp_body_open(); ?>

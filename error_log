@@ -18,3 +18,47 @@
 [04-Jun-2022 01:22:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/thetshri/public_html/wp-content/plugins/gamipress-transfers/includes/transfers.php on line 240
 [04-Jun-2022 01:23:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/thetshri/public_html/wp-content/plugins/gamipress-transfers/includes/transfers.php on line 240
 [04-Jun-2022 01:30:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/thetshri/public_html/wp-content/plugins/gamipress-transfers/includes/transfers.php on line 240
+[04-Jun-2022 13:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function has_errors() on null in /home/thetshri/public_html/wp-includes/user.php:3364
+Stack trace:
+#0 /home/thetshri/public_html/wp-content/plugins/theme-my-login/includes/actions.php(609): register_new_user('', '')
+#1 /home/thetshri/public_html/wp-includes/class-wp-hook.php(307): tml_registration_handler('')
+#2 /home/thetshri/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home/thetshri/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /home/thetshri/public_html/wp-content/plugins/theme-my-login/includes/actions.php(376): do_action('tml_action_regi...')
+#5 /home/thetshri/public_html/wp-includes/class-wp-hook.php(307): tml_action_handler('')
+#6 /home/thetshri/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(false, Array)
+#7 /home/thetshri/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#8 /home/thetshri/public_html/wp-includes/template-loader.php(13): do_action('template_redire.. in /home/thetshri/public_html/wp-includes/user.php on line 3364
+[04-Jun-2022 13:16:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function has_errors() on null in /home/thetshri/public_html/wp-includes/user.php:3364
+Stack trace:
+#0 /home/thetshri/public_html/wp-content/plugins/theme-my-login/includes/actions.php(609): register_new_user('', '')
+#1 /home/thetshri/public_html/wp-includes/class-wp-hook.php(307): tml_registration_handler('')
+#2 /home/thetshri/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home/thetshri/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /home/thetshri/public_html/wp-content/plugins/theme-my-login/includes/actions.php(376): do_action('tml_action_regi...')
+#5 /home/thetshri/public_html/wp-includes/class-wp-hook.php(307): tml_action_handler('')
+#6 /home/thetshri/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(false, Array)
+#7 /home/thetshri/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#8 /home/thetshri/public_html/wp-includes/template-loader.php(13): do_action('template_redire.. in /home/thetshri/public_html/wp-includes/user.php on line 3364
+[04-Jun-2022 13:19:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function has_errors() on null in /home/thetshri/public_html/wp-includes/user.php:3364
+Stack trace:
+#0 /home/thetshri/public_html/wp-content/plugins/theme-my-login/includes/actions.php(609): register_new_user('', '')
+#1 /home/thetshri/public_html/wp-includes/class-wp-hook.php(307): tml_registration_handler('')
+#2 /home/thetshri/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home/thetshri/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /home/thetshri/public_html/wp-content/plugins/theme-my-login/includes/actions.php(376): do_action('tml_action_regi...')
+#5 /home/thetshri/public_html/wp-includes/class-wp-hook.php(307): tml_action_handler('')
+#6 /home/thetshri/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(false, Array)
+#7 /home/thetshri/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#8 /home/thetshri/public_html/wp-includes/template-loader.php(13): do_action('template_redire.. in /home/thetshri/public_html/wp-includes/user.php on line 3364
+[04-Jun-2022 13:20:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function has_errors() on null in /home/thetshri/public_html/wp-includes/user.php:3364
+Stack trace:
+#0 /home/thetshri/public_html/wp-content/plugins/theme-my-login/includes/actions.php(609): register_new_user('', '')
+#1 /home/thetshri/public_html/wp-includes/class-wp-hook.php(307): tml_registration_handler('')
+#2 /home/thetshri/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /home/thetshri/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /home/thetshri/public_html/wp-content/plugins/theme-my-login/includes/actions.php(376): do_action('tml_action_regi...')
+#5 /home/thetshri/public_html/wp-includes/class-wp-hook.php(307): tml_action_handler('')
+#6 /home/thetshri/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(false, Array)
+#7 /home/thetshri/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#8 /home/thetshri/public_html/wp-includes/template-loader.php(13): do_action('template_redire.. in /home/thetshri/public_html/wp-includes/user.php on line 3364
