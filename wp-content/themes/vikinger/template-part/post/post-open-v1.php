@@ -191,8 +191,6 @@
     <?php if (!$current_post_is_restricted && !$current_post_category_is_restricted) : ?>
       <!-- COMMENT LIST -->
       <div id="comment-list" data-postid="<?php echo esc_attr($args['post']['id']); ?>"></div>
-1rfghjkl;
-
       <!-- /COMMENT LIST -->
     <?php endif; ?>
     </div>
