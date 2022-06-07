@@ -60,32 +60,38 @@
         <!-- /POST OPEN TITLE -->
       </div>
 
+      <div class="tribe-comments tribe-post-action-box">
+       
+				<?php 
+				global $current_user;
+				get_currentuserinfo();
+				if (is_user_logged_in() && $current_user->ID == $post->post_author)  {
+					$post_link = get_edit_post_link( $post_id );
+			        echo '<a href="'.$post_link.'" class="menu-item-link text-tooltip-tfr "  data-title="Edit">
+              <svg class="icon-settings menu-item-link-icon">
+              <use href="#svg-settings"></use>
+            </svg>
+            </a>'; 
+			    }
+				?>
+			</div>
 
-
-          <!-- 1 -->
-
-          <div class="tribe-post-action-box">
-      <a class="menu-item-link text-tooltip-tfr"  data-title="Share" style="position: relative;">
-
-
-    
-<!-- ICON SVG -->
-<svg class="icon-share dashicons-share menu-item-link-icon">
-  <use href="#svg-share"></use>
-</svg>
-<div class="share-url tribe-share" style="display:none">
-          <input type="text" value="<?php echo esc_url( get_permalink() ); ?>?ref=<?php $current_user = wp_get_current_user(); echo $current_user->user_login ?>">
-				</div>
-<!-- ICON SVG -->    
-          <!-- 1 -->
-          </a>
-
+      <div class="tribe-post-action-box">
+        <a class="menu-item-link text-tooltip-tfr"  data-title="Share" style="position: relative;">
+          <svg class="icon-share dashicons-share menu-item-link-icon">
+            <use href="#svg-share"></use>
+          </svg>
+          <div class="share-url tribe-share" style="display:none">
+            <input type="text" value="<?php echo esc_url( get_permalink() ); ?>?ref=<?php $current_user = wp_get_current_user(); echo $current_user->user_login ?>">
+				  </div>
+        </a>
       </div>  
     <!-- ICON SVG -->
 
 			
-				<div class="tribe-comments tribe-post-action-box">
-        <style>
+
+
+      <style>
           .share-url{
             float: left;
             position: fixed;
@@ -108,19 +114,6 @@
               })
           });
         </script>
-				<?php 
-				global $current_user;
-				get_currentuserinfo();
-				if (is_user_logged_in() && $current_user->ID == $post->post_author)  {
-					$post_link = get_edit_post_link( $post_id );
-			        echo '<a href="'.$post_link.'" class="menu-item-link text-tooltip-tfr "  data-title="Edit">
-              <svg class="icon-settings menu-item-link-icon">
-              <use href="#svg-settings"></use>
-            </svg>
-            </a>'; 
-			    }
-				?>
-			</div>
       <!-- POST OPEN CONTENT -->
       <div class="post-open-content">
         <!-- POST OPEN CONTENT SIDEBAR -->
