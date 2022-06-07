@@ -96,7 +96,6 @@
             float: left;
             position: fixed;
             min-width: 300px;
-            right: 3%;
           }
           .tribe-post-action-box{
             display: inline-block;
