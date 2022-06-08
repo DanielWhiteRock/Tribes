@@ -10,3 +10,11 @@
  * Text Domain: vikingerchild
  * Template: vikinger
 */
+
+.post-preview.medium .post-preview-info{
+    margin-top: -40px;
+}
+
+.post-open .post-open-body {
+    margin: -90px auto 0;
+}
