@@ -374,7 +374,7 @@
                     if (grecaptcha.getResponse() == ""){
                         alert("You can't proceed! Please fill Captchas");
                     } else {
-                        $(this).submit();
+                        jQuery(this).submit();
 
                     }
                 })
