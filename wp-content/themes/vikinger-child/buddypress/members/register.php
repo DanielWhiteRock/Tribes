@@ -369,12 +369,12 @@
 			</div>
             <script>
                 jQuery(document).ready(function(){
-                jQuery('#signup_submit').on('click',function(e){
+                jQuery('#signup_form').on('submit',function(e){
                     e.preventDefault();
                     if (grecaptcha.getResponse() == ""){
                         alert("You can't proceed! Please fill Captchas");
                     } else {
-                        jQuery('#signup_form').submit();
+                        jQuery(this).submit();
 
                     }
                 })
