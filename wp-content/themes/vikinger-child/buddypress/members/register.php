@@ -367,7 +367,19 @@
 			<div class="submit">
 				<input type="submit" name="signup_submit" id="signup_submit" value="<?php esc_attr_e( 'Complete Sign Up', 'buddypress' ); ?>" />
 			</div>
+            <script>
+                jQuery(document).ready(function(){
+                jQuery('#signup_submit').on('click',function(e){
+                    e.preventDefault();
+                    if (grecaptcha.getResponse() == ""){
+                        alert("You can't proceed! Please fill Captchas");
+                    } else {
+                        $(this).submit();
 
+                    }
+                })
+            })
+            </script>
 			<?php
 
 			/**
