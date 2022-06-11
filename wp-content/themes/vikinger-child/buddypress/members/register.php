@@ -367,7 +367,7 @@
 			<div class="submit">
 				<input type="submit" name="signup_submit" id="signup_submit" value="<?php esc_attr_e( 'Complete Sign Up', 'buddypress' ); ?>" />
 			</div>
-            <script>
+            <!-- <script>
                 jQuery(document).ready(function(){
                 jQuery('#signup_form').on('submit',function(e){
                     e.preventDefault();
@@ -379,7 +379,7 @@
                     }
                 })
             })
-            </script>
+            </script> -->
 			<?php
 
 			/**
