@@ -1,0 +1,205 @@
+.solpay-donation-form * {
+    box-sizing: border-box;
+}
+
+.solpay-donation-form {
+    width: 22.813rem;
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.solpay-donation-form__amount-container {
+
+}
+
+.solpay-donation-form__amount-container--hidden {
+    display: none;
+}
+
+.solpay-donation-form__row {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.solpay-donation-form__label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.solpay-donation-form__amount-type-label {
+    display: flex;
+    align-items: center;
+}
+
+.solpay-donation-form__amount-type-input {
+    opacity: 0;
+    position: absolute;
+}
+
+.solpay-donation-form__amount-type-checkmark {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1.125rem;
+    height: 1.125rem;
+    margin-right: 0.6rem;
+    border-radius: 1.125rem;
+    border: 2px solid #000;
+}
+
+.solpay-donation-form__amount-type-checkmark:after {
+    content: '';
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    background: none;
+}
+
+.solpay-donation-form__amount-type-input:checked + .solpay-donation-form__amount-type-checkmark:after {
+    background: #4fc356;
+}
+
+.solpay-donation-form__amount-type-delimiter {
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.solpay-donation-form__amount-type-delimiter:before,
+.solpay-donation-form__amount-type-delimiter:after {
+    content: '';
+    display: inline-block;
+    width: 9rem;
+    height: 2px;
+    background: #000;
+    margin: 0 1rem;
+}
+
+.solpay-donation-form__label__text {
+    display: inline-block;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.solpay-donation-form__input {
+    padding: 0.75rem 0.5rem;
+}
+
+.solpay-donation-form__predefined-amounts {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.solpay-donation-form__predefined-amount-label {
+    display: inline-block;
+    margin: 0 0 0.938rem 0;
+    flex: 0 0 48%;
+}
+
+.solpay-donation-form__predefined-amount-text {
+    display: inline-block;
+    width: 100%;
+    padding: 0.813rem 0;
+    border: solid 2px #000;
+    font-size: 1.25rem;
+    font-weight: 500;
+    text-align: center;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.solpay-donation-form__predefined-amount-input:checked + .solpay-donation-form__predefined-amount-text {
+    background: #4fc356;
+    color: #fff;
+}
+
+.solpay-donation-form__predefined-amount-input {
+    position: absolute;
+    opacity: 0;
+}
+
+.solpay-donation-form__custom-amount-input {
+    width: 100%;
+    border-width: 2px;
+    font-size: 1.25rem;
+    margin-bottom: 3rem;
+}
+
+.solpay-donation-form__chosen-amount-info {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.25;
+    text-align: center;
+}
+
+.solpay-donation-form__chosen-amount {
+    font-weight: 900;
+}
+
+.solpay-donation-form__token-label {
+    font-weight: 900;
+}
+
+.solpay-donation-form__donate-button {
+    width: 100%;
+    background: #00f;
+    border: 0;
+    padding: 0.75rem 1rem;
+    border-radius: 6px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.solpay-donation-form__donate-button:disabled {
+    background: #ddd;
+}
+
+.solpay-donation-form__donate-button:not(:disabled):hover {
+    background: #00f;
+}
+
+.solpay-donation-form__qr-container {
+    text-align: center;
+}
+
+.solpay-donation-form__qr-container--hidden {
+    display: none;
+}
+
+.solpay-donation-form__timer-container {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.solpay-donation-form__timer {
+    color: #c31818;
+}
+
+.solpay-donation-form__instructions {
+    font-size: 1.5rem;
+    line-height: 1.25;
+    font-weight: 600;
+}
+
+.solpay-donation-form__qr {
+    width: 100%;
+    margin: 1rem 0;
+}
+
+.solpay-donation-form__feedback-message {
+
+}
+
+.solpay-donation-form__feedback-message--hidden {
+    display: none;
+}

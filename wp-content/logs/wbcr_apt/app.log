@@ -1805,3 +1805,2085 @@
   'date_end' =&gt; 0,
 )
 -------------------------------
+11-06-2022 21:57:40 [thetribes.io][debug] Found images: array (
+)
+11-06-2022 21:57:40 [thetribes.io][warning] The post type (rank-requirement) is not allowed for generation in settings
+11-06-2022 21:57:40 [thetribes.io][debug] Found images: array (
+)
+11-06-2022 21:57:40 [thetribes.io][warning] The post type (rank-requirement) is not allowed for generation in settings
+11-06-2022 21:57:40 [thetribes.io][debug] Found images: array (
+)
+11-06-2022 21:57:40 [thetribes.io][warning] The post type (rank-requirement) is not allowed for generation in settings
+11-06-2022 21:57:40 [thetribes.io][debug] Found images: array (
+)
+11-06-2022 21:57:40 [thetribes.io][warning] The post type (rank-requirement) is not allowed for generation in settings
+-------------------------------
+11-06-2022 21:57:42 [thetribes.io][warning] The post (197) has already been assigned a featured image
+11-06-2022 21:57:42 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+11-06-2022 21:57:43 [thetribes.io][warning] The post (197) has already been assigned a featured image
+11-06-2022 21:57:43 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+11-06-2022 21:57:54 [thetribes.io][warning] The post (197) has already been assigned a featured image
+11-06-2022 21:57:54 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+11-06-2022 21:57:55 [thetribes.io][warning] The post (197) has already been assigned a featured image
+11-06-2022 21:57:55 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+12-06-2022 06:12:02 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+12-06-2022 06:12:02 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+12-06-2022 06:12:02 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+12-06-2022 06:12:02 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+-------------------------------
+12-06-2022 06:12:05 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+12-06-2022 06:12:05 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+-------------------------------
+12-06-2022 06:15:39 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+12-06-2022 06:15:39 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+12-06-2022 06:15:39 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+-------------------------------
+12-06-2022 06:15:42 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+12-06-2022 06:15:42 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+-------------------------------
+12-06-2022 06:50:41 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+12-06-2022 06:50:41 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+12-06-2022 06:50:41 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+-------------------------------
+12-06-2022 06:50:43 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+12-06-2022 06:50:43 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+-------------------------------
+12-06-2022 07:36:32 [thetribes.io][warning] The post (2241) has already been assigned a featured image
+-------------------------------
+12-06-2022 07:36:33 [thetribes.io][warning] The post (2241) has already been assigned a featured image
+12-06-2022 07:36:33 [thetribes.io][warning] The post (2241) has already been assigned a featured image
+-------------------------------
+12-06-2022 07:36:35 [thetribes.io][warning] The post (2241) has already been assigned a featured image
+-------------------------------
+12-06-2022 07:36:35 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+12-06-2022 10:11:30 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+12-06-2022 10:11:38 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+12-06-2022 10:11:38 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+12-06-2022 10:11:38 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+12-06-2022 10:11:38 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+-------------------------------
+12-06-2022 10:11:40 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+12-06-2022 10:11:40 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+-------------------------------
+12-06-2022 13:03:47 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+12-06-2022 13:03:47 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+12-06-2022 13:03:47 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+-------------------------------
+12-06-2022 13:03:50 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+12-06-2022 13:03:50 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+-------------------------------
+12-06-2022 13:05:08 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+12-06-2022 13:05:08 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+12-06-2022 13:05:08 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+12-06-2022 13:05:08 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+-------------------------------
+12-06-2022 13:05:10 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+12-06-2022 13:05:10 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+-------------------------------
+12-06-2022 13:41:43 [thetribes.io][debug] Found images: array (
+)
+12-06-2022 13:41:43 [thetribes.io][warning] The post type (elementor_library) is not allowed for generation in settings
+12-06-2022 13:41:43 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+12-06-2022 13:41:43 [thetribes.io][debug] Found images: array (
+)
+12-06-2022 13:41:43 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+12-06-2022 13:49:56 [thetribes.io][debug] Found images: array (
+)
+12-06-2022 13:49:56 [thetribes.io][warning] The post type (elementor_library) is not allowed for generation in settings
+12-06-2022 13:49:56 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+12-06-2022 13:49:56 [thetribes.io][debug] Found images: array (
+)
+12-06-2022 13:49:57 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+12-06-2022 13:53:03 [thetribes.io][debug] Found images: array (
+)
+12-06-2022 13:53:03 [thetribes.io][warning] The post type (elementor_library) is not allowed for generation in settings
+12-06-2022 13:53:03 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+12-06-2022 13:53:03 [thetribes.io][debug] Found images: array (
+)
+12-06-2022 13:53:03 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+12-06-2022 16:58:08 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+12-06-2022 16:59:27 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+12-06-2022 16:59:27 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+12-06-2022 16:59:27 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+12-06-2022 16:59:27 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+-------------------------------
+12-06-2022 16:59:29 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+12-06-2022 16:59:29 [thetribes.io][warning] The post (2246) has already been assigned a featured image
+-------------------------------
+13-06-2022 04:34:14 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+13-06-2022 04:34:14 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+13-06-2022 04:34:14 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+13-06-2022 04:34:14 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+-------------------------------
+13-06-2022 04:34:17 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+13-06-2022 04:34:17 [thetribes.io][warning] The post (2237) has already been assigned a featured image
+-------------------------------
+13-06-2022 11:41:48 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+13-06-2022 11:41:50 [thetribes.io][debug] Found images: array (
+)
+13-06-2022 11:41:50 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+13-06-2022 11:41:51 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+13-06-2022 11:41:51 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+13-06-2022 11:41:52 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+13-06-2022 11:42:26 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+13-06-2022 11:49:51 [thetribes.io][warning] The post (2263) has already been assigned a featured image
+13-06-2022 11:49:51 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+13-06-2022 11:49:51 [thetribes.io][warning] The post (2263) has already been assigned a featured image
+13-06-2022 11:49:51 [thetribes.io][warning] The post (2263) has already been assigned a featured image
+-------------------------------
+13-06-2022 11:49:54 [thetribes.io][warning] The post (2263) has already been assigned a featured image
+13-06-2022 11:49:54 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+13-06-2022 11:49:54 [thetribes.io][warning] The post (2263) has already been assigned a featured image
+-------------------------------
+13-06-2022 11:50:19 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+15-06-2022 16:32:22 [thetribes.io][debug] Found images: array (
+)
+15-06-2022 16:32:22 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+15-06-2022 18:09:50 [thetribes.io][debug] Found images: array (
+)
+15-06-2022 18:09:50 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:33:18 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:33:55 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 06:33:55 [thetribes.io][warning] The post type (rank-requirement) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:34:24 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:35:24 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:36:24 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:37:21 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 06:37:21 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:37:22 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 06:37:22 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:37:59 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 06:37:59 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:38:01 [thetribes.io][warning] The post (2286) has already been assigned a featured image
+16-06-2022 06:38:01 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:46:16 [thetribes.io][warning] The post (2286) has already been assigned a featured image
+16-06-2022 06:46:16 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:46:18 [thetribes.io][warning] The post (2286) has already been assigned a featured image
+16-06-2022 06:46:18 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:46:38 [thetribes.io][warning] The post (2286) has already been assigned a featured image
+16-06-2022 06:46:38 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:46:39 [thetribes.io][warning] The post (2286) has already been assigned a featured image
+16-06-2022 06:46:39 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:46:55 [thetribes.io][warning] The post (2286) has already been assigned a featured image
+16-06-2022 06:46:55 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 06:46:57 [thetribes.io][warning] The post (2286) has already been assigned a featured image
+16-06-2022 06:46:57 [thetribes.io][warning] The post type (rank) is not allowed for generation in settings
+-------------------------------
+16-06-2022 07:06:07 [thetribes.io][warning] The post (272) has already been assigned a featured image
+16-06-2022 07:06:07 [thetribes.io][warning] The post type (black_rock) is not allowed for generation in settings
+-------------------------------
+16-06-2022 07:06:08 [thetribes.io][warning] The post (272) has already been assigned a featured image
+16-06-2022 07:06:08 [thetribes.io][warning] The post type (black_rock) is not allowed for generation in settings
+-------------------------------
+16-06-2022 07:10:12 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+16-06-2022 07:10:35 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 07:10:35 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 07:10:35 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 07:10:35 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 07:10:35 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 07:10:35 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 07:10:36 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 07:10:36 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 07:10:36 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 07:10:36 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+16-06-2022 07:10:37 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+16-06-2022 07:10:44 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+16-06-2022 15:09:16 [thetribes.io][warning] The post type (matic) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:10:21 [thetribes.io][warning] The post type (matic) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:10:50 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 15:10:50 [thetribes.io][warning] The post type (step) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:11:21 [thetribes.io][warning] The post type (matic) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:12:21 [thetribes.io][warning] The post type (matic) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:12:27 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 15:12:27 [thetribes.io][warning] The post type (matic) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:12:28 [thetribes.io][warning] The post (2308) has already been assigned a featured image
+16-06-2022 15:12:28 [thetribes.io][warning] The post type (matic) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:14:14 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 15:14:14 [thetribes.io][warning] The post type (step) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:15:38 [thetribes.io][warning] The post (2308) has already been assigned a featured image
+16-06-2022 15:15:38 [thetribes.io][warning] The post type (matic) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:15:39 [thetribes.io][warning] The post (2308) has already been assigned a featured image
+16-06-2022 15:15:39 [thetribes.io][warning] The post type (matic) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:17:16 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 15:17:16 [thetribes.io][warning] The post type (step) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:17:25 [thetribes.io][debug] Found images: array (
+)
+16-06-2022 15:17:25 [thetribes.io][warning] The post type (step) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:17:33 [thetribes.io][warning] The post (2308) has already been assigned a featured image
+16-06-2022 15:17:33 [thetribes.io][warning] The post type (matic) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:17:34 [thetribes.io][warning] The post (2308) has already been assigned a featured image
+16-06-2022 15:17:34 [thetribes.io][warning] The post type (matic) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:17:43 [thetribes.io][warning] The post (2308) has already been assigned a featured image
+16-06-2022 15:17:43 [thetribes.io][warning] The post type (matic) is not allowed for generation in settings
+-------------------------------
+16-06-2022 15:17:44 [thetribes.io][warning] The post (2308) has already been assigned a featured image
+16-06-2022 15:17:44 [thetribes.io][warning] The post type (matic) is not allowed for generation in settings
+-------------------------------
+17-06-2022 07:42:58 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+17-06-2022 07:43:46 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+17-06-2022 07:43:46 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-06-2022 07:43:46 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+17-06-2022 07:43:46 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+-------------------------------
+17-06-2022 07:43:49 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+17-06-2022 07:43:49 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-06-2022 07:43:49 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+-------------------------------
+17-06-2022 07:44:05 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+17-06-2022 07:44:05 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-06-2022 07:44:05 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+17-06-2022 07:44:05 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+-------------------------------
+17-06-2022 07:44:07 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+17-06-2022 07:44:07 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-06-2022 07:44:07 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+-------------------------------
+17-06-2022 07:46:57 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+-------------------------------
+17-06-2022 07:47:01 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-06-2022 07:47:01 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+17-06-2022 07:47:01 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+-------------------------------
+17-06-2022 07:47:03 [thetribes.io][warning] The post (2313) has already been assigned a featured image
+-------------------------------
+17-06-2022 07:47:03 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+17-06-2022 14:21:54 [thetribes.io][debug] Found images: array (
+)
+17-06-2022 14:21:54 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+17-06-2022 15:58:49 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 15:58:49 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-06-2022 15:58:49 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 15:58:49 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+17-06-2022 15:58:51 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 15:58:51 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+17-06-2022 16:04:36 [thetribes.io][debug] Found images: array (
+)
+17-06-2022 16:04:36 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+17-06-2022 16:33:49 [thetribes.io][debug] Found images: array (
+)
+17-06-2022 16:33:49 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+17-06-2022 16:33:49 [thetribes.io][debug] Found images: array (
+)
+17-06-2022 16:33:49 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+17-06-2022 16:44:03 [thetribes.io][warning] The post (2348) has already been assigned a featured image
+17-06-2022 16:44:03 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-06-2022 16:44:03 [thetribes.io][warning] The post (2348) has already been assigned a featured image
+17-06-2022 16:44:03 [thetribes.io][warning] The post (2348) has already been assigned a featured image
+-------------------------------
+17-06-2022 16:44:06 [thetribes.io][warning] The post (2348) has already been assigned a featured image
+17-06-2022 16:44:06 [thetribes.io][warning] The post (2348) has already been assigned a featured image
+-------------------------------
+17-06-2022 16:44:50 [thetribes.io][warning] The post (2348) has already been assigned a featured image
+17-06-2022 16:44:50 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-06-2022 16:44:50 [thetribes.io][warning] The post (2348) has already been assigned a featured image
+17-06-2022 16:44:50 [thetribes.io][warning] The post (2348) has already been assigned a featured image
+-------------------------------
+17-06-2022 16:44:52 [thetribes.io][warning] The post (2348) has already been assigned a featured image
+17-06-2022 16:44:52 [thetribes.io][warning] The post (2348) has already been assigned a featured image
+-------------------------------
+17-06-2022 17:06:02 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 17:06:02 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-06-2022 17:06:02 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 17:06:02 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+17-06-2022 17:06:04 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 17:06:04 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+17-06-2022 17:06:37 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+17-06-2022 17:06:41 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 17:06:41 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-06-2022 17:06:41 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 17:06:41 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+17-06-2022 17:06:43 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 17:06:43 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+17-06-2022 17:07:28 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 17:07:28 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-06-2022 17:07:28 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 17:07:28 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+17-06-2022 17:07:31 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 17:07:31 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+17-06-2022 20:18:51 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+17-06-2022 20:19:51 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+17-06-2022 20:20:20 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 20:20:20 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-06-2022 20:20:20 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 20:20:20 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+17-06-2022 20:20:23 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+17-06-2022 20:20:23 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+18-06-2022 17:15:27 [thetribes.io][warning] The post (2340) has already been assigned a featured image
+18-06-2022 17:15:27 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+18-06-2022 17:15:27 [thetribes.io][warning] The post (2340) has already been assigned a featured image
+18-06-2022 17:15:27 [thetribes.io][warning] The post (2340) has already been assigned a featured image
+-------------------------------
+18-06-2022 17:15:30 [thetribes.io][warning] The post (2340) has already been assigned a featured image
+18-06-2022 17:15:30 [thetribes.io][warning] The post (2340) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:19:41 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+18-06-2022 18:20:10 [thetribes.io][warning] The post (2379) has already been assigned a featured image
+18-06-2022 18:20:10 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+18-06-2022 18:20:10 [thetribes.io][warning] The post (2379) has already been assigned a featured image
+18-06-2022 18:20:10 [thetribes.io][warning] The post (2379) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:20:14 [thetribes.io][warning] The post (2379) has already been assigned a featured image
+18-06-2022 18:20:14 [thetribes.io][warning] The post (2379) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:20:20 [thetribes.io][debug] Found images: array (
+)
+18-06-2022 18:20:20 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+18-06-2022 18:31:12 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+18-06-2022 18:32:12 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+18-06-2022 18:32:55 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:32:55 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+18-06-2022 18:32:55 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:32:55 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:32:57 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:32:57 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:33:02 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:33:02 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+18-06-2022 18:33:02 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:33:02 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:33:05 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:33:05 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:33:13 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+18-06-2022 18:33:41 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:33:41 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+18-06-2022 18:33:41 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:33:41 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:33:44 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:33:44 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:33:45 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+18-06-2022 18:43:31 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+18-06-2022 18:44:50 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+18-06-2022 18:44:53 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:44:53 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+18-06-2022 18:44:53 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:44:53 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:44:56 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:44:56 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:46:08 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:46:08 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+18-06-2022 18:46:08 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:46:08 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:46:10 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:46:10 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:49:30 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:49:30 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+18-06-2022 18:49:30 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:49:30 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+-------------------------------
+18-06-2022 18:49:32 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+18-06-2022 18:49:32 [thetribes.io][warning] The post (2386) has already been assigned a featured image
+-------------------------------
+19-06-2022 05:42:38 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+19-06-2022 05:42:39 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+19-06-2022 05:42:39 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+19-06-2022 05:42:41 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+19-06-2022 05:42:41 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+19-06-2022 05:43:26 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+19-06-2022 05:43:33 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+19-06-2022 05:43:40 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+19-06-2022 05:43:45 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+19-06-2022 05:43:46 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+19-06-2022 05:44:09 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+19-06-2022 05:44:21 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+19-06-2022 05:44:35 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+19-06-2022 05:45:00 [thetribes.io][warning] The post (1850) has already been assigned a featured image
+19-06-2022 05:45:00 [thetribes.io][warning] The post (1850) has already been assigned a featured image
+19-06-2022 05:45:00 [thetribes.io][warning] The post (1850) has already been assigned a featured image
+-------------------------------
+19-06-2022 05:45:03 [thetribes.io][warning] The post (1850) has already been assigned a featured image
+19-06-2022 05:45:03 [thetribes.io][warning] The post (1850) has already been assigned a featured image
+-------------------------------
+19-06-2022 05:45:15 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+19-06-2022 05:45:15 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+19-06-2022 05:45:15 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+19-06-2022 05:45:18 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+19-06-2022 05:45:18 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+19-06-2022 18:30:55 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+19-06-2022 18:31:55 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+19-06-2022 18:32:55 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+19-06-2022 18:33:55 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+19-06-2022 18:34:56 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+19-06-2022 18:35:51 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+19-06-2022 18:35:51 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+19-06-2022 18:35:51 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+19-06-2022 18:35:51 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+-------------------------------
+19-06-2022 18:35:54 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+19-06-2022 18:35:54 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+19-06-2022 18:35:54 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+-------------------------------
+19-06-2022 18:36:38 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+19-06-2022 18:36:38 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+19-06-2022 18:36:38 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+19-06-2022 18:36:38 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+-------------------------------
+19-06-2022 18:36:41 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+19-06-2022 18:36:41 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+19-06-2022 18:36:41 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+-------------------------------
+19-06-2022 18:39:16 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+19-06-2022 18:39:22 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+19-06-2022 18:39:22 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+19-06-2022 18:39:22 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+19-06-2022 18:39:22 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+-------------------------------
+19-06-2022 18:39:24 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+19-06-2022 18:39:24 [thetribes.io][warning] The post (2418) has already been assigned a featured image
+-------------------------------
+19-06-2022 18:47:26 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+19-06-2022 18:47:28 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+19-06-2022 18:47:28 [thetribes.io][debug] Found images: array (
+)
+19-06-2022 18:47:28 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+19-06-2022 18:47:30 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+19-06-2022 18:47:31 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+19-06-2022 18:47:41 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+19-06-2022 18:47:55 [thetribes.io][debug] Found images: array (
+)
+19-06-2022 18:47:55 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+19-06-2022 18:47:58 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+19-06-2022 18:49:12 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+19-06-2022 18:49:13 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+19-06-2022 18:49:22 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+19-06-2022 18:49:33 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+20-06-2022 07:10:27 [thetribes.io][warning] The post (2435) has already been assigned a featured image
+20-06-2022 07:10:27 [thetribes.io][warning] The post (2435) has already been assigned a featured image
+20-06-2022 07:10:27 [thetribes.io][warning] The post (2435) has already been assigned a featured image
+-------------------------------
+20-06-2022 07:10:30 [thetribes.io][warning] The post (2435) has already been assigned a featured image
+20-06-2022 07:10:30 [thetribes.io][warning] The post (2435) has already been assigned a featured image
+-------------------------------
+20-06-2022 21:26:20 [thetribes.io][debug] Found images: array (
+)
+20-06-2022 21:26:20 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+21-06-2022 18:47:06 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+21-06-2022 18:49:06 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+21-06-2022 18:51:20 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+21-06-2022 18:53:07 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+21-06-2022 18:54:08 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+21-06-2022 18:55:07 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+21-06-2022 18:56:07 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+21-06-2022 18:57:30 [thetribes.io][warning] The post (2477) has already been assigned a featured image
+21-06-2022 18:57:30 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+21-06-2022 18:57:30 [thetribes.io][warning] The post (2477) has already been assigned a featured image
+21-06-2022 18:57:30 [thetribes.io][warning] The post (2477) has already been assigned a featured image
+-------------------------------
+21-06-2022 18:57:33 [thetribes.io][warning] The post (2477) has already been assigned a featured image
+21-06-2022 18:57:33 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+21-06-2022 18:57:33 [thetribes.io][warning] The post (2477) has already been assigned a featured image
+-------------------------------
+21-06-2022 19:00:45 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+22-06-2022 16:57:39 [thetribes.io][warning] The post (2499) has already been assigned a featured image
+22-06-2022 16:57:39 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+22-06-2022 16:57:39 [thetribes.io][warning] The post (2499) has already been assigned a featured image
+22-06-2022 16:57:39 [thetribes.io][warning] The post (2499) has already been assigned a featured image
+-------------------------------
+22-06-2022 16:57:44 [thetribes.io][warning] The post (2499) has already been assigned a featured image
+22-06-2022 16:57:44 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+22-06-2022 16:57:44 [thetribes.io][warning] The post (2499) has already been assigned a featured image
+-------------------------------
+22-06-2022 16:58:03 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+22-06-2022 20:09:45 [thetribes.io][warning] The post (2507) has already been assigned a featured image
+22-06-2022 20:09:45 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+22-06-2022 20:09:45 [thetribes.io][warning] The post (2507) has already been assigned a featured image
+22-06-2022 20:09:45 [thetribes.io][warning] The post (2507) has already been assigned a featured image
+-------------------------------
+22-06-2022 20:09:47 [thetribes.io][warning] The post (2507) has already been assigned a featured image
+22-06-2022 20:09:47 [thetribes.io][warning] The post (2507) has already been assigned a featured image
+-------------------------------
+22-06-2022 20:09:57 [thetribes.io][warning] The post (2507) has already been assigned a featured image
+22-06-2022 20:09:57 [thetribes.io][warning] The post (2507) has already been assigned a featured image
+22-06-2022 20:09:57 [thetribes.io][warning] The post (2507) has already been assigned a featured image
+-------------------------------
+22-06-2022 20:10:00 [thetribes.io][warning] The post (2507) has already been assigned a featured image
+22-06-2022 20:10:00 [thetribes.io][warning] The post (2507) has already been assigned a featured image
+-------------------------------
+23-06-2022 08:37:53 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+23-06-2022 22:16:18 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+23-06-2022 22:16:22 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+23-06-2022 22:16:22 [thetribes.io][debug] Found images: array (
+)
+23-06-2022 22:16:22 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+24-06-2022 08:46:22 [thetribes.io][debug] Found images: array (
+)
+24-06-2022 08:46:22 [thetribes.io][warning] The post type (nav_menu_item) is not allowed for generation in settings
+24-06-2022 08:46:22 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+24-06-2022 08:46:22 [thetribes.io][debug] Found images: array (
+)
+24-06-2022 08:46:22 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------
+24-06-2022 08:48:29 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+24-06-2022 08:49:29 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+24-06-2022 08:50:29 [thetribes.io][warning] The post (2540) has already been assigned a featured image
+24-06-2022 08:50:29 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+24-06-2022 08:50:29 [thetribes.io][warning] The post (2540) has already been assigned a featured image
+24-06-2022 08:50:29 [thetribes.io][warning] The post (2540) has already been assigned a featured image
+-------------------------------
+24-06-2022 08:50:32 [thetribes.io][warning] The post (2540) has already been assigned a featured image
+24-06-2022 08:50:32 [thetribes.io][warning] The post (2540) has already been assigned a featured image
+-------------------------------
+24-06-2022 08:52:58 [thetribes.io][warning] The post (2540) has already been assigned a featured image
+24-06-2022 08:52:58 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+24-06-2022 08:52:58 [thetribes.io][warning] The post (2540) has already been assigned a featured image
+24-06-2022 08:52:58 [thetribes.io][warning] The post (2540) has already been assigned a featured image
+-------------------------------
+24-06-2022 08:53:00 [thetribes.io][warning] The post (2540) has already been assigned a featured image
+24-06-2022 08:53:00 [thetribes.io][warning] The post (2540) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:43:46 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+24-06-2022 13:44:46 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+24-06-2022 13:45:46 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+24-06-2022 13:46:46 [thetribes.io][debug] Found images: array (
+)
+-------------------------------
+24-06-2022 13:47:45 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.19.23-1024x1024.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-2550&quot;/&gt;',
+    'url' =&gt; 'https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.19.23-1024x1024.jpeg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.16.44-1024x1024.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-2549&quot;/&gt;',
+    'url' =&gt; 'https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.16.44-1024x1024.jpeg',
+    'title' =&gt; '',
+  ),
+)
+24-06-2022 13:47:45 [thetribes.io][info] An attachment (2550) was found in the text of the post.
+24-06-2022 13:47:45 [thetribes.io][info] Featured image (2550) is set for post (2547)
+-------------------------------
+24-06-2022 13:48:45 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:49:46 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:50:46 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:51:46 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:52:46 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:53:46 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:54:45 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:54:48 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+24-06-2022 13:54:48 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+24-06-2022 13:54:48 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+24-06-2022 13:54:48 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.19.24.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-2551&quot;/&gt;',
+    'url' =&gt; 'https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.19.24.jpeg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.19.23-1024x1024.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-2550&quot;/&gt;',
+    'url' =&gt; 'https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.19.23-1024x1024.jpeg',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.16.44-1024x1024.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-2549&quot;/&gt;',
+    'url' =&gt; 'https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.16.44-1024x1024.jpeg',
+    'title' =&gt; '',
+  ),
+)
+24-06-2022 13:54:48 [thetribes.io][info] An attachment (2551) was found in the text of the post.
+24-06-2022 13:54:48 [thetribes.io][info] Featured image (2551) is set for post (2547)
+-------------------------------
+24-06-2022 13:54:50 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+24-06-2022 13:54:50 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:55:32 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+24-06-2022 13:55:32 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+24-06-2022 13:55:32 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:55:33 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+24-06-2022 13:55:33 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:55:38 [thetribes.io][debug] Found images: array (
+)
+24-06-2022 13:55:38 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+24-06-2022 13:56:30 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+24-06-2022 13:56:30 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+24-06-2022 13:56:30 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.19.24.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-2551&quot;/&gt;',
+    'url' =&gt; 'https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.19.24.jpeg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.19.23-1024x1024.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-2550&quot;/&gt;',
+    'url' =&gt; 'https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.19.23-1024x1024.jpeg',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.16.44-1024x1024.jpeg&quot; alt=&quot;&quot; class=&quot;wp-image-2549&quot;/&gt;',
+    'url' =&gt; 'https://thetribes.io/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-23.16.44-1024x1024.jpeg',
+    'title' =&gt; '',
+  ),
+)
+24-06-2022 13:56:30 [thetribes.io][info] An attachment (2551) was found in the text of the post.
+24-06-2022 13:56:30 [thetribes.io][info] Featured image (2551) is set for post (2547)
+-------------------------------
+24-06-2022 13:56:33 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+24-06-2022 13:56:33 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:57:50 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+24-06-2022 13:58:06 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+24-06-2022 13:58:06 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+24-06-2022 13:58:06 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+24-06-2022 13:58:06 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+24-06-2022 13:58:09 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+24-06-2022 13:58:09 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+25-06-2022 16:23:18 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img class=&quot;aligncenter&quot; src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:23:18 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+25-06-2022 16:23:18 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img class=&quot;aligncenter&quot; src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:23:18 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img class=&quot;aligncenter&quot; src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:23:18 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+25-06-2022 16:23:18 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img class=&quot;aligncenter&quot; src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:23:18 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:23:18 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+25-06-2022 16:23:18 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+-------------------------------
+25-06-2022 16:24:15 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:24:16 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+25-06-2022 16:24:16 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:24:16 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:24:16 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+25-06-2022 16:24:16 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:24:16 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:24:16 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+25-06-2022 16:24:16 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+-------------------------------
+25-06-2022 16:24:24 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:24:24 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+25-06-2022 16:24:24 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:24:24 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:24:24 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+25-06-2022 16:24:24 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot; /&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot; /&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:24:24 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:24:24 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+25-06-2022 16:24:24 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+-------------------------------
+25-06-2022 16:46:43 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:46:43 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+25-06-2022 16:46:43 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:46:43 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+-------------------------------
+25-06-2022 16:46:45 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:46:45 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg&quot; alt=&quot;🔥&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f525.svg',
+    'title' =&gt; '',
+  ),
+  1 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+  2 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg&quot; alt=&quot;🎵&quot;&gt;',
+    'url' =&gt; 'https://s.w.org/images/core/emoji/14.0.0/svg/1f3b5.svg',
+    'title' =&gt; '',
+  ),
+)
+-------------------------------
+25-06-2022 16:47:05 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:47:05 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+25-06-2022 16:47:05 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:47:05 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+)
+-------------------------------
+25-06-2022 16:47:08 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:47:08 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+)
+-------------------------------
+25-06-2022 16:47:27 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+25-06-2022 16:47:53 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:47:53 [thetribes.io][debug] Found images: array (
+  0 =&gt; 
+  array (
+    'tag' =&gt; '&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png&quot;&gt;',
+    'url' =&gt; 'https://upload.wikimedia.org/wikipedia/en/c/c7/Honestly%2C_Nevermind_-_Drake.png',
+    'title' =&gt; '',
+  ),
+)
+25-06-2022 16:47:53 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+-------------------------------
+25-06-2022 16:47:57 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+25-06-2022 16:47:57 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+-------------------------------
+26-06-2022 08:14:50 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+26-06-2022 08:14:50 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+26-06-2022 08:14:50 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+26-06-2022 08:14:50 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+-------------------------------
+26-06-2022 08:14:53 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+26-06-2022 08:14:53 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+-------------------------------
+26-06-2022 08:14:56 [thetribes.io][debug] Found images: array (
+)
+26-06-2022 08:14:56 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+26-06-2022 08:19:44 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+26-06-2022 08:19:44 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+26-06-2022 08:19:44 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+26-06-2022 08:19:44 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+-------------------------------
+26-06-2022 08:19:46 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+26-06-2022 08:19:46 [thetribes.io][warning] The post (2581) has already been assigned a featured image
+-------------------------------
+26-06-2022 12:41:11 [thetribes.io][warning] The post (2599) has already been assigned a featured image
+26-06-2022 12:41:11 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+26-06-2022 12:41:11 [thetribes.io][warning] The post (2599) has already been assigned a featured image
+26-06-2022 12:41:11 [thetribes.io][warning] The post (2599) has already been assigned a featured image
+-------------------------------
+26-06-2022 12:41:15 [thetribes.io][warning] The post (2599) has already been assigned a featured image
+26-06-2022 12:41:15 [thetribes.io][warning] The post (2599) has already been assigned a featured image
+-------------------------------
+26-06-2022 13:46:56 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+26-06-2022 20:11:59 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+26-06-2022 20:11:59 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+26-06-2022 20:11:59 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+26-06-2022 20:12:01 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+26-06-2022 20:12:01 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+26-06-2022 20:12:36 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+26-06-2022 20:12:36 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+26-06-2022 20:12:36 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+26-06-2022 20:12:36 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+26-06-2022 20:12:39 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+26-06-2022 20:12:39 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+27-06-2022 11:18:10 [thetribes.io][warning] The post (2631) has already been assigned a featured image
+27-06-2022 11:18:10 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+27-06-2022 11:18:10 [thetribes.io][warning] The post (2631) has already been assigned a featured image
+27-06-2022 11:18:10 [thetribes.io][warning] The post (2631) has already been assigned a featured image
+-------------------------------
+27-06-2022 11:18:13 [thetribes.io][warning] The post (2631) has already been assigned a featured image
+27-06-2022 11:18:13 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+27-06-2022 11:18:13 [thetribes.io][warning] The post (2631) has already been assigned a featured image
+-------------------------------
+27-06-2022 15:29:59 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+27-06-2022 15:30:19 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+27-06-2022 15:30:28 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+27-06-2022 15:30:28 [thetribes.io][warning] The post (2327) has already been assigned a featured image
+-------------------------------
+27-06-2022 19:21:11 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+27-06-2022 19:21:33 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+27-06-2022 19:21:33 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+27-06-2022 19:21:33 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+27-06-2022 19:21:33 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+27-06-2022 19:21:36 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+27-06-2022 19:21:36 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+27-06-2022 20:05:23 [thetribes.io][warning] The post (1726) has already been assigned a featured image
+-------------------------------
+27-06-2022 20:05:24 [thetribes.io][warning] The post (1726) has already been assigned a featured image
+27-06-2022 20:05:24 [thetribes.io][warning] The post (1726) has already been assigned a featured image
+-------------------------------
+27-06-2022 20:05:25 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+01-07-2022 12:38:09 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+01-07-2022 12:38:23 [thetribes.io][warning] The post (2685) has already been assigned a featured image
+01-07-2022 12:38:23 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+01-07-2022 12:38:23 [thetribes.io][warning] The post (2685) has already been assigned a featured image
+01-07-2022 12:38:23 [thetribes.io][warning] The post (2685) has already been assigned a featured image
+-------------------------------
+01-07-2022 12:38:25 [thetribes.io][warning] The post (2685) has already been assigned a featured image
+01-07-2022 12:38:25 [thetribes.io][warning] The post (2685) has already been assigned a featured image
+-------------------------------
+01-07-2022 12:38:33 [thetribes.io][warning] The post (2685) has already been assigned a featured image
+01-07-2022 12:38:33 [thetribes.io][warning] The post (2685) has already been assigned a featured image
+01-07-2022 12:38:33 [thetribes.io][warning] The post (2685) has already been assigned a featured image
+-------------------------------
+01-07-2022 12:38:35 [thetribes.io][warning] The post (2685) has already been assigned a featured image
+01-07-2022 12:38:35 [thetribes.io][warning] The post (2685) has already been assigned a featured image
+-------------------------------
+01-07-2022 17:23:46 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:23:46 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+01-07-2022 17:23:46 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:23:46 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+-------------------------------
+01-07-2022 17:23:49 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:23:49 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+-------------------------------
+01-07-2022 17:24:05 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:24:05 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:24:05 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+-------------------------------
+01-07-2022 17:24:08 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:24:08 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+-------------------------------
+01-07-2022 17:24:16 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:24:16 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:24:16 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+-------------------------------
+01-07-2022 17:24:19 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:24:19 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+-------------------------------
+01-07-2022 17:24:24 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:24:24 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:24:24 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+-------------------------------
+01-07-2022 17:24:27 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:24:27 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+-------------------------------
+01-07-2022 17:24:33 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:24:33 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:24:33 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+-------------------------------
+01-07-2022 17:24:35 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:24:35 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+-------------------------------
+01-07-2022 17:25:26 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:25:26 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:25:26 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+-------------------------------
+01-07-2022 17:25:29 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+01-07-2022 17:25:29 [thetribes.io][warning] The post (2690) has already been assigned a featured image
+-------------------------------
+01-07-2022 19:15:34 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+01-07-2022 19:15:34 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+01-07-2022 19:15:34 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+01-07-2022 19:17:27 [thetribes.io][warning] The post (2679) has already been assigned a featured image
+01-07-2022 19:17:27 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+01-07-2022 19:17:27 [thetribes.io][warning] The post (2679) has already been assigned a featured image
+01-07-2022 19:17:27 [thetribes.io][warning] The post (2679) has already been assigned a featured image
+01-07-2022 19:17:27 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+01-07-2022 19:17:27 [thetribes.io][warning] The post (2679) has already been assigned a featured image
+01-07-2022 19:17:27 [thetribes.io][warning] The post (2679) has already been assigned a featured image
+01-07-2022 19:17:27 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+01-07-2022 19:17:27 [thetribes.io][warning] The post (2679) has already been assigned a featured image
+-------------------------------
+02-07-2022 19:26:46 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+02-07-2022 19:26:46 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+02-07-2022 19:26:46 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+02-07-2022 19:29:23 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+02-07-2022 19:29:23 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+02-07-2022 19:31:27 [thetribes.io][warning] The post (2710) has already been assigned a featured image
+02-07-2022 19:31:27 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+02-07-2022 19:31:27 [thetribes.io][warning] The post (2710) has already been assigned a featured image
+02-07-2022 19:31:27 [thetribes.io][warning] The post (2710) has already been assigned a featured image
+-------------------------------
+02-07-2022 19:31:30 [thetribes.io][warning] The post (2710) has already been assigned a featured image
+02-07-2022 19:31:30 [thetribes.io][warning] The post (2710) has already been assigned a featured image
+-------------------------------
+02-07-2022 19:32:10 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+02-07-2022 19:32:28 [thetribes.io][warning] The post (2710) has already been assigned a featured image
+02-07-2022 19:32:28 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+02-07-2022 19:32:28 [thetribes.io][warning] The post (2710) has already been assigned a featured image
+02-07-2022 19:32:28 [thetribes.io][warning] The post (2710) has already been assigned a featured image
+-------------------------------
+02-07-2022 19:32:31 [thetribes.io][warning] The post (2710) has already been assigned a featured image
+02-07-2022 19:32:32 [thetribes.io][warning] The post (2710) has already been assigned a featured image
+-------------------------------
+04-07-2022 12:32:55 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+04-07-2022 12:33:55 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+04-07-2022 12:34:22 [thetribes.io][warning] The post (2732) has already been assigned a featured image
+04-07-2022 12:34:22 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+04-07-2022 12:34:22 [thetribes.io][warning] The post (2732) has already been assigned a featured image
+04-07-2022 12:34:22 [thetribes.io][warning] The post (2732) has already been assigned a featured image
+-------------------------------
+04-07-2022 12:34:25 [thetribes.io][warning] The post (2732) has already been assigned a featured image
+04-07-2022 12:34:25 [thetribes.io][warning] The post (2732) has already been assigned a featured image
+-------------------------------
+06-07-2022 19:30:30 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+06-07-2022 19:30:30 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+06-07-2022 19:30:30 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+06-07-2022 19:30:30 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+06-07-2022 19:30:33 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+06-07-2022 19:30:33 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+09-07-2022 06:30:20 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+09-07-2022 06:30:20 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+09-07-2022 06:30:20 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+09-07-2022 06:30:20 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+-------------------------------
+09-07-2022 06:30:23 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+09-07-2022 06:30:23 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+-------------------------------
+09-07-2022 06:30:39 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+09-07-2022 06:30:39 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+09-07-2022 06:30:39 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+09-07-2022 06:30:39 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+-------------------------------
+09-07-2022 06:30:42 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+09-07-2022 06:30:42 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+-------------------------------
+09-07-2022 06:30:50 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+09-07-2022 06:30:50 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+09-07-2022 06:30:50 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+-------------------------------
+09-07-2022 06:30:53 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+09-07-2022 06:30:53 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+-------------------------------
+09-07-2022 06:30:58 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+09-07-2022 06:30:58 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+09-07-2022 06:30:58 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+-------------------------------
+09-07-2022 06:31:05 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+09-07-2022 06:31:05 [thetribes.io][warning] The post (2843) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:38:29 [thetribes.io][warning] The post (2857) has already been assigned a featured image
+09-07-2022 21:38:29 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+09-07-2022 21:38:29 [thetribes.io][warning] The post (2857) has already been assigned a featured image
+09-07-2022 21:38:29 [thetribes.io][warning] The post (2857) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:38:32 [thetribes.io][warning] The post (2857) has already been assigned a featured image
+09-07-2022 21:38:32 [thetribes.io][warning] The post (2857) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:38:50 [thetribes.io][warning] The post (2857) has already been assigned a featured image
+09-07-2022 21:38:50 [thetribes.io][warning] The post (2857) has already been assigned a featured image
+09-07-2022 21:38:50 [thetribes.io][warning] The post (2857) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:38:52 [thetribes.io][warning] The post (2857) has already been assigned a featured image
+09-07-2022 21:38:52 [thetribes.io][warning] The post (2857) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:43:46 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:43:46 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+09-07-2022 21:43:46 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:43:46 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:43:49 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:43:49 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+09-07-2022 21:43:49 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:45:03 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+09-07-2022 21:45:32 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:45:32 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+09-07-2022 21:45:32 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:45:32 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:45:35 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:45:35 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+09-07-2022 21:45:35 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:45:40 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:45:40 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+09-07-2022 21:45:40 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:45:40 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:45:42 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:45:42 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+09-07-2022 21:45:42 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:45:49 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:45:49 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+09-07-2022 21:45:49 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:45:49 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:45:52 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:45:52 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+09-07-2022 21:45:52 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:47:01 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:47:02 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+09-07-2022 21:47:02 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+09-07-2022 21:47:02 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+-------------------------------
+09-07-2022 21:47:05 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+09-07-2022 21:47:05 [thetribes.io][warning] The post (2861) has already been assigned a featured image
+-------------------------------
+10-07-2022 17:31:51 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+10-07-2022 17:32:27 [thetribes.io][warning] The post (2898) has already been assigned a featured image
+10-07-2022 17:32:28 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+10-07-2022 17:32:28 [thetribes.io][warning] The post (2898) has already been assigned a featured image
+10-07-2022 17:32:28 [thetribes.io][warning] The post (2898) has already been assigned a featured image
+-------------------------------
+10-07-2022 17:32:31 [thetribes.io][warning] The post (2898) has already been assigned a featured image
+10-07-2022 17:32:31 [thetribes.io][warning] The post (2898) has already been assigned a featured image
+-------------------------------
+11-07-2022 12:10:56 [thetribes.io][debug] Found images: array (
+)
+11-07-2022 12:10:56 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+11-07-2022 12:10:56 [thetribes.io][debug] Found images: array (
+)
+11-07-2022 12:10:56 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+11-07-2022 12:10:57 [thetribes.io][debug] Found images: array (
+)
+11-07-2022 12:10:57 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+11-07-2022 12:45:44 [thetribes.io][debug] Found images: array (
+)
+11-07-2022 12:45:45 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+11-07-2022 12:45:45 [thetribes.io][debug] Found images: array (
+)
+11-07-2022 12:45:45 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+11-07-2022 12:45:45 [thetribes.io][debug] Found images: array (
+)
+11-07-2022 12:45:45 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+11-07-2022 13:02:01 [thetribes.io][debug] Found images: array (
+)
+11-07-2022 13:02:01 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+11-07-2022 13:02:03 [thetribes.io][debug] Found images: array (
+)
+11-07-2022 13:02:03 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+11-07-2022 13:02:03 [thetribes.io][debug] Found images: array (
+)
+11-07-2022 13:02:03 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+12-07-2022 20:21:30 [thetribes.io][warning] The post (2925) has already been assigned a featured image
+12-07-2022 20:21:30 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+12-07-2022 20:21:30 [thetribes.io][warning] The post (2925) has already been assigned a featured image
+12-07-2022 20:21:30 [thetribes.io][warning] The post (2925) has already been assigned a featured image
+-------------------------------
+12-07-2022 20:21:32 [thetribes.io][warning] The post (2925) has already been assigned a featured image
+12-07-2022 20:21:32 [thetribes.io][warning] The post (2925) has already been assigned a featured image
+-------------------------------
+12-07-2022 20:22:08 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+12-07-2022 20:22:08 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+12-07-2022 20:22:08 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+12-07-2022 20:22:11 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+12-07-2022 20:22:11 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+14-07-2022 20:52:40 [thetribes.io][warning] The post (3007) has already been assigned a featured image
+-------------------------------
+14-07-2022 20:52:42 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+14-07-2022 20:52:42 [thetribes.io][warning] The post (3007) has already been assigned a featured image
+14-07-2022 20:52:42 [thetribes.io][warning] The post (3007) has already been assigned a featured image
+-------------------------------
+14-07-2022 20:52:49 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+14-07-2022 20:52:49 [thetribes.io][warning] The post (3007) has already been assigned a featured image
+-------------------------------
+14-07-2022 20:52:49 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+15-07-2022 13:16:12 [thetribes.io][debug] Found images: array (
+)
+15-07-2022 13:16:12 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+15-07-2022 13:16:12 [thetribes.io][debug] Found images: array (
+)
+15-07-2022 13:16:12 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+15-07-2022 13:16:12 [thetribes.io][debug] Found images: array (
+)
+15-07-2022 13:16:12 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+15-07-2022 20:03:48 [thetribes.io][warning] The post (3044) has already been assigned a featured image
+15-07-2022 20:03:48 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+15-07-2022 20:03:48 [thetribes.io][warning] The post (3044) has already been assigned a featured image
+15-07-2022 20:03:48 [thetribes.io][warning] The post (3044) has already been assigned a featured image
+-------------------------------
+15-07-2022 20:03:51 [thetribes.io][warning] The post (3044) has already been assigned a featured image
+15-07-2022 20:03:51 [thetribes.io][warning] The post (3044) has already been assigned a featured image
+-------------------------------
+15-07-2022 20:05:26 [thetribes.io][warning] The post (3041) has already been assigned a featured image
+15-07-2022 20:05:26 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+15-07-2022 20:05:26 [thetribes.io][warning] The post (3041) has already been assigned a featured image
+15-07-2022 20:05:26 [thetribes.io][warning] The post (3041) has already been assigned a featured image
+-------------------------------
+15-07-2022 20:05:29 [thetribes.io][warning] The post (3041) has already been assigned a featured image
+15-07-2022 20:05:29 [thetribes.io][warning] The post (3041) has already been assigned a featured image
+-------------------------------
+16-07-2022 21:04:36 [thetribes.io][warning] The post (3079) has already been assigned a featured image
+-------------------------------
+16-07-2022 21:04:38 [thetribes.io][warning] The post (3079) has already been assigned a featured image
+16-07-2022 21:04:38 [thetribes.io][warning] The post (3079) has already been assigned a featured image
+-------------------------------
+16-07-2022 21:04:40 [thetribes.io][warning] The post (3079) has already been assigned a featured image
+-------------------------------
+16-07-2022 21:04:40 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+17-07-2022 11:53:09 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+17-07-2022 11:53:17 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+17-07-2022 11:53:17 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+17-07-2022 11:53:17 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+17-07-2022 11:53:17 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+-------------------------------
+17-07-2022 11:53:20 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+17-07-2022 11:53:20 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+-------------------------------
+17-07-2022 11:53:25 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+17-07-2022 11:53:25 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+17-07-2022 11:53:25 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+-------------------------------
+17-07-2022 11:53:28 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+17-07-2022 11:53:28 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+-------------------------------
+17-07-2022 11:53:34 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+17-07-2022 11:53:34 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+17-07-2022 11:53:34 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+-------------------------------
+17-07-2022 11:53:37 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+17-07-2022 11:53:37 [thetribes.io][warning] The post (3096) has already been assigned a featured image
+-------------------------------
+17-07-2022 11:56:47 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+18-07-2022 14:20:29 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+18-07-2022 14:20:29 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+18-07-2022 14:20:29 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+18-07-2022 14:20:32 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+18-07-2022 14:20:32 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+18-07-2022 14:20:54 [thetribes.io][warning] The post (2925) has already been assigned a featured image
+18-07-2022 14:20:54 [thetribes.io][warning] The post (2925) has already been assigned a featured image
+18-07-2022 14:20:54 [thetribes.io][warning] The post (2925) has already been assigned a featured image
+-------------------------------
+18-07-2022 14:20:57 [thetribes.io][warning] The post (2925) has already been assigned a featured image
+18-07-2022 14:20:57 [thetribes.io][warning] The post (2925) has already been assigned a featured image
+-------------------------------
+18-07-2022 19:28:07 [thetribes.io][warning] The post (3135) has already been assigned a featured image
+18-07-2022 19:28:07 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+18-07-2022 19:28:07 [thetribes.io][warning] The post (3135) has already been assigned a featured image
+18-07-2022 19:28:07 [thetribes.io][warning] The post (3135) has already been assigned a featured image
+-------------------------------
+18-07-2022 19:28:09 [thetribes.io][warning] The post (3135) has already been assigned a featured image
+18-07-2022 19:28:09 [thetribes.io][warning] The post (3135) has already been assigned a featured image
+-------------------------------
+18-07-2022 19:29:40 [thetribes.io][warning] The post (3135) has already been assigned a featured image
+18-07-2022 19:29:40 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+18-07-2022 19:29:40 [thetribes.io][warning] The post (3135) has already been assigned a featured image
+18-07-2022 19:29:40 [thetribes.io][warning] The post (3135) has already been assigned a featured image
+-------------------------------
+18-07-2022 19:29:43 [thetribes.io][warning] The post (3135) has already been assigned a featured image
+18-07-2022 19:29:43 [thetribes.io][warning] The post (3135) has already been assigned a featured image
+-------------------------------
+20-07-2022 21:15:29 [thetribes.io][warning] The post (3188) has already been assigned a featured image
+-------------------------------
+20-07-2022 21:15:31 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+20-07-2022 21:15:31 [thetribes.io][warning] The post (3188) has already been assigned a featured image
+20-07-2022 21:15:31 [thetribes.io][warning] The post (3188) has already been assigned a featured image
+-------------------------------
+20-07-2022 21:15:33 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+20-07-2022 21:15:33 [thetribes.io][warning] The post (3188) has already been assigned a featured image
+-------------------------------
+20-07-2022 21:15:33 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+21-07-2022 06:02:07 [thetribes.io][warning] The post (3199) has already been assigned a featured image
+-------------------------------
+21-07-2022 06:02:09 [thetribes.io][warning] The post (3199) has already been assigned a featured image
+21-07-2022 06:02:09 [thetribes.io][warning] The post (3199) has already been assigned a featured image
+-------------------------------
+21-07-2022 06:02:11 [thetribes.io][warning] The post (3199) has already been assigned a featured image
+-------------------------------
+21-07-2022 06:02:11 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+21-07-2022 06:58:59 [thetribes.io][debug] Found images: array (
+)
+21-07-2022 06:58:59 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+21-07-2022 06:59:00 [thetribes.io][debug] Found images: array (
+)
+21-07-2022 06:59:00 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+21-07-2022 06:59:01 [thetribes.io][debug] Found images: array (
+)
+21-07-2022 06:59:01 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+21-07-2022 06:59:02 [thetribes.io][debug] Found images: array (
+)
+21-07-2022 06:59:02 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+21-07-2022 07:01:53 [thetribes.io][warning] The post (3214) has already been assigned a featured image
+21-07-2022 07:01:53 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+21-07-2022 07:01:53 [thetribes.io][warning] The post (3214) has already been assigned a featured image
+21-07-2022 07:01:53 [thetribes.io][warning] The post (3214) has already been assigned a featured image
+-------------------------------
+21-07-2022 07:01:56 [thetribes.io][warning] The post (3214) has already been assigned a featured image
+21-07-2022 07:01:56 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+21-07-2022 07:01:57 [thetribes.io][warning] The post (3214) has already been assigned a featured image
+-------------------------------
+21-07-2022 07:03:42 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+-------------------------------
+21-07-2022 07:04:13 [thetribes.io][warning] The post (3214) has already been assigned a featured image
+21-07-2022 07:04:13 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+21-07-2022 07:04:13 [thetribes.io][warning] The post (3214) has already been assigned a featured image
+21-07-2022 07:04:13 [thetribes.io][warning] The post (3214) has already been assigned a featured image
+-------------------------------
+21-07-2022 07:04:16 [thetribes.io][warning] The post (3214) has already been assigned a featured image
+21-07-2022 07:04:16 [thetribes.io][warning] The post (3214) has already been assigned a featured image
+-------------------------------
+22-07-2022 08:21:23 [thetribes.io][warning] The post (3228) has already been assigned a featured image
+22-07-2022 08:21:23 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+22-07-2022 08:21:23 [thetribes.io][warning] The post (3228) has already been assigned a featured image
+22-07-2022 08:21:23 [thetribes.io][warning] The post (3228) has already been assigned a featured image
+-------------------------------
+22-07-2022 08:21:26 [thetribes.io][warning] The post (3228) has already been assigned a featured image
+22-07-2022 08:21:26 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+22-07-2022 08:21:26 [thetribes.io][warning] The post (3228) has already been assigned a featured image
+-------------------------------
+22-07-2022 09:18:34 [thetribes.io][debug] Found images: array (
+)
+22-07-2022 09:18:34 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+22-07-2022 09:18:34 [thetribes.io][debug] Found images: array (
+)
+22-07-2022 09:18:34 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+22-07-2022 09:18:35 [thetribes.io][debug] Found images: array (
+)
+22-07-2022 09:18:35 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+22-07-2022 09:18:35 [thetribes.io][debug] Found images: array (
+)
+22-07-2022 09:18:35 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+22-07-2022 09:18:36 [thetribes.io][debug] Found images: array (
+)
+22-07-2022 09:18:36 [thetribes.io][warning] The post type (oembed_cache) is not allowed for generation in settings
+-------------------------------
+05-08-2022 21:00:51 [thetribes.io][debug] Found images: array (
+)
+05-08-2022 21:00:51 [thetribes.io][warning] The post type (elementor_library) is not allowed for generation in settings
+-------------------------------
+05-08-2022 21:35:39 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+05-08-2022 21:35:39 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+05-08-2022 21:35:39 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+05-08-2022 21:35:39 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+05-08-2022 21:35:41 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+05-08-2022 21:35:41 [thetribes.io][warning] The post (2547) has already been assigned a featured image
+-------------------------------
+06-08-2022 05:05:14 [thetribes.io][warning] The post (3367) has already been assigned a featured image
+-------------------------------
+06-08-2022 05:05:16 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+06-08-2022 05:05:16 [thetribes.io][warning] The post (3367) has already been assigned a featured image
+06-08-2022 05:05:16 [thetribes.io][warning] The post (3367) has already been assigned a featured image
+-------------------------------
+06-08-2022 05:05:17 [thetribes.io][warning] The post (3367) has already been assigned a featured image
+-------------------------------
+06-08-2022 05:05:17 [thetribes.io][info] Posts query: array (
+  'has_thumb' =&gt; false,
+  'type' =&gt; 'post',
+  'status' =&gt; 'publish',
+  'category' =&gt; 0,
+  'date_start' =&gt; 0,
+  'date_end' =&gt; 0,
+)
+-------------------------------
+06-08-2022 08:01:03 [thetribes.io][debug] Found images: array (
+)
+06-08-2022 08:01:03 [thetribes.io][warning] The post type (revision) is not allowed for generation in settings
+06-08-2022 08:01:03 [thetribes.io][warning] The post type (custom_css) is not allowed for generation in settings
+06-08-2022 08:01:03 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+06-08-2022 08:01:03 [thetribes.io][debug] Found images: array (
+)
+06-08-2022 08:01:03 [thetribes.io][warning] The post type (customize_changeset) is not allowed for generation in settings
+-------------------------------

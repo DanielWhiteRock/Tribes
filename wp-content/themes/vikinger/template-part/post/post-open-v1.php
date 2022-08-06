@@ -91,28 +91,7 @@
 			
 
 
-      <style>
-          .share-url{
-            float: left;
-            position: fixed;
-            min-width: 300px;
-          }
-          .tribe-post-action-box{
-            display: inline-block;
-            float: right;
-            position: relative;
-            bottom: 50px;
-            margin: 20px;
-          }
-        </style>
-				<script>
 
-          jQuery(document).ready(function(){
-              jQuery(".dashicons-share").click(function() {
-                  jQuery(this).parent().parent().find(".tribe-share").toggle();
-              })
-          });
-        </script>
       <!-- POST OPEN CONTENT -->
       <div class="post-open-content">
         <!-- POST OPEN CONTENT SIDEBAR -->
@@ -140,7 +119,14 @@
           <p class="post-open-excerpt"><?php echo wp_kses($args['post']['excerpt'], vikinger_wp_kses_post_excerpt_get_allowed_tags()); ?></p>
           <!-- /POST OPEN EXCERPT -->
         <?php endif; ?>
-
+       <?php 
+          $wallet = xprofile_get_field_data(2, $post->post_author,'array');
+        ?>
+        <input type="hidden" id="author_wallet" value="<?php echo $wallet ?>" />
+        <div id="tip-toggle"><h3>🚀 Tip  Me 🥰</h3> </div>
+        <div id="tip" style="display:none"> 
+        <?php echo do_shortcode('[solpay_donation_form]'); ?>
+        </div>
         <?php
         
           wp_reset_postdata();
@@ -196,8 +182,10 @@
     </div>
     <!-- /POST OPEN BODY -->
   </article>
+	
   <!-- /POST OPEN -->
 </div>
+
 
 <!-- /CONTENT GRID -->
 <?php if ($blog_sidebar_is_active) : ?>
@@ -207,3 +195,40 @@
   </div>
   <!-- /CONTENT GRID -->
 <?php endif; ?>
+
+<script>
+
+jQuery(document).ready(function(){
+    jQuery(".dashicons-share").click(function() {
+        jQuery(this).parent().parent().find(".tribe-share").toggle();
+    })
+    jQuery("#tip-toggle").click(function() {
+        jQuery('#tip').toggle();
+    })
+    
+    let wallet = jQuery("#author_wallet").val();
+    if(wallet.length === 44) {
+      jQuery('[name="solpay_donation_wallet"]').val(wallet)
+    }
+});
+</script>
+
+<style>
+          .share-url{
+            float: left;
+            position: fixed;
+            min-width: 300px;
+          }
+          .tribe-post-action-box{
+            display: inline-block;
+            float: right;
+            position: relative;
+            bottom: 50px;
+            margin: 20px;
+          }
+
+.solpay-donation-form__qr-container{
+  color:#FFF !important;
+}
+
+        </style>

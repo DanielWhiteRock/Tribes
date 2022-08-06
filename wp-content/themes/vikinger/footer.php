@@ -58,6 +58,8 @@
   <div class="footer content-grid">
     <!-- FOOTER TOP -->
     <div class="footer-top">
+		
+		
       <!-- FOOTER INFO -->
       <div class="footer-info">
         <!-- FOOTER INFO BRAND -->
@@ -162,7 +164,6 @@
   endif;
   
 ?>
-
 <?php wp_footer(); ?>
   
 </body>

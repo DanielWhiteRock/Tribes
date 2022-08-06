@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-05-03 17:28+0300\n"
+"PO-Revision-Date: 2022-05-03 14:23+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-solpay-donation-fundraising-admin.php:107
+#: admin/class-solpay-donation-fundraising-admin.php:108
+msgid "Solpay Donation & Fundraising"
+msgstr ""
+
+#: admin/class-solpay-donation-fundraising-admin.php:127
+msgid "Invalid nonce"
+msgstr ""
+
+#: admin/class-solpay-donation-fundraising-admin.php:168
+msgid "Settings saved!"
+msgstr ""
+
+#: admin/partials/solpay-donation-fundraising-admin-settings.php:3
+msgid "You are not authorized to perform this operation."
+msgstr ""
+
+#: admin/partials/solpay-donation-fundraising-admin-settings.php:29
+msgid "Solpay Donation & Fundraising Settings"
+msgstr ""
+
+#: admin/partials/solpay-donation-fundraising-admin-settings.php:36
+#, php-format
+msgid "After filling in your merchant wallet and updating your settings, you can use the following shortcode: %s in any page or sidebar / footer widget to display the form."
+msgstr ""
+
+#: admin/partials/solpay-donation-fundraising-admin-settings.php:66
+msgid "Wallet address"
+msgstr ""
+
+#: admin/partials/solpay-donation-fundraising-admin-settings.php:83
+msgid "Payment coin"
+msgstr ""
+
+#: admin/partials/solpay-donation-fundraising-admin-settings.php:104
+msgid "Predefined donation amounts"
+msgstr ""
+
+#: admin/partials/solpay-donation-fundraising-admin-settings.php:123
+msgid "Enter one value per line. Use \".\" (dot) for decimal values."
+msgstr ""
+
+#: admin/partials/solpay-donation-fundraising-admin-settings.php:130
+msgid "Allow custom amount input"
+msgstr ""
+
+#: admin/partials/solpay-donation-fundraising-admin-settings.php:145
+msgid "Thank you message"
+msgstr ""
+
+#: admin/partials/solpay-donation-fundraising-admin-settings.php:154
+msgid "Thank you for your donation!"
+msgstr ""
+
+#: admin/partials/solpay-donation-fundraising-admin-settings.php:173
+msgid "Save settings"
+msgstr ""
+
+#: public/class-solpay-donation-fundraising-public.php:128
+#, php-format
+msgid "Donation for %s"
+msgstr ""
+
+#: public/class-solpay-donation-fundraising-public.php:134
+msgid "Please save your Solpay Donations & Fundraising settings first."
+msgstr ""
+
+#: public/partials/solpay-donation-fundraising-form.php:31
+msgid "Choose predefined amount"
+msgstr ""
+
+#: public/partials/solpay-donation-fundraising-form.php:58
+msgid "OR"
+msgstr ""
+
+#: public/partials/solpay-donation-fundraising-form.php:74
+msgid "Enter custom amount"
+msgstr ""
+
+#: public/partials/solpay-donation-fundraising-form.php:92
+#: public/partials/solpay-donation-fundraising-form.php:103
+#: public/partials/solpay-donation-fundraising-form.php:144
+msgid "Please choose an amount to donate."
+msgstr ""
+
+#: public/partials/solpay-donation-fundraising-form.php:96
+msgid "Continue"
+msgstr ""
+
+#: public/partials/solpay-donation-fundraising-form.php:107
+msgid "Scan the QR code or tap it on mobile to donate."
+msgstr ""
+
+#: public/partials/solpay-donation-fundraising-form.php:121
+#, php-format
+msgid "This QR code will disappear in %s seconds."
+msgstr ""
+
+#: public/partials/solpay-donation-fundraising-form.php:147
+#, php-format
+msgid "You chose to donate %s."
+msgstr ""
